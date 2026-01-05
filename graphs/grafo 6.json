@@ -1,0 +1,431 @@
+{
+  "nodes": {
+    "Gigli Gian Luigi": {
+      "type": "central",
+      "x": 0,
+      "y": 0
+    },
+    "Neurologia e Neuroscienze Cliniche": {
+      "type": "nucleus",
+      "x": 6.5,
+      "y": 0.0
+    },
+    "Journal of Clinical Neurophysiology": {
+      "type": "article",
+      "x": 9.763652802915246,
+      "y": 1.2643458316550351,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "Risk Factors for Intraoperative Seizures in Glioma Surgery: Electrocorticography Matters",
+      "year": 2023,
+      "locations": "Udine, Italy"
+    },
+    "Journal of Neurology": {
+      "type": "article",
+      "x": 9.086531210272305,
+      "y": -2.357934752762952,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "Epidemiology of paraneoplastic neurological syndromes: a population-based study",
+      "year": 2020,
+      "locations": "Auvergne-Rhone-Alpes, France | Gorizia, Italy | Lyon, France | Merano, Italy | Pordenone, Italy | Udine, Italy | Verona, Italy"
+    },
+    "eNeurologicalSci": {
+      "type": "article",
+      "x": 8.060084245217883,
+      "y": 3.1330715197427184,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "Case report and ten-year follow-up of episodic ataxia type 2 due to a novel variant in CACNA1A",
+      "year": 2021,
+      "locations": "Milan, Italy | Udine, Italy"
+    },
+    "Brain": {
+      "type": "article",
+      "x": 6.822939258121557,
+      "y": 3.4850696170326207,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "Unclear association between COVID-19 and Guillain-Barré syndrome",
+      "year": 2021,
+      "locations": "Auvergne-Rhone-Alpes, France | Lyon, France | Saint-Etienne, France | Udine, Italy"
+    },
+    "Neurology": {
+      "type": "article",
+      "x": 5.542179534747709,
+      "y": -3.3663897511048666,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "GBA variants in REM sleep behavior disorder: A multicenter study",
+      "year": 2020,
+      "locations": "Bologna, Italy | Cagliari, Italy | Cincinnati, United States | Geel, Belgium | Hauts-de-France, France | Hessen, Germany | Ile-de-France, France | London, United Kingdom | Milan, Italy | Montpellier, France | Montreal, Canada | Niedersachsen, Germany | Nordrhein-Westfalen, Germany | Occitania, France | Occitanie, France | Oxfordshire, United Kingdom | Prague, Czech Republic | Tyrol, Austria | Udine, Italy"
+    },
+    "Neuroscience Letters": {
+      "type": "article",
+      "x": 3.0595941511063436,
+      "y": -0.6431233123579954,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "Stroke in patients with COVID-19: Clinical and neuroimaging characteristics",
+      "year": 2021,
+      "locations": "Brescia, Italy | Udine, Italy"
+    },
+    "Neurological Sciences": {
+      "type": "article",
+      "x": 3.5242400249463506,
+      "y": -1.8425125700707454,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "HLA and immunological features of SARS-CoV-2-induced Guillain-Barré syndrome",
+      "year": 2020,
+      "locations": "Udine, Italy"
+    },
+    "Clinical Neurophysiology": {
+      "type": "article",
+      "x": 4.3907787726726,
+      "y": -2.7930602954808363,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "Spikes/spike-waves time-locked to the flash frequency during intermittent light stimulation in Jeavons syndrome",
+      "year": 2020,
+      "locations": "Ile-de-France, France | Marseille, France | Naples, Italy | Occitanie, France | Udine, Italy"
+    },
+    "BMJ Neurology Open": {
+      "type": "article",
+      "x": 6.822939258121559,
+      "y": -3.4850696170326207,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "May lamotrigine be an alternative to topiramate in the prevention of migraine with aura? Results of a retrospective study",
+      "year": 2020,
+      "locations": "Udine, Italy"
+    },
+    "Cerebellum": {
+      "type": "article",
+      "x": 9.763652802915246,
+      "y": -1.2643458316550356,
+      "category": "Neurologia e Neuroscienze Cliniche",
+      "title": "Stroke-Like Presentation of Paraneoplastic Cerebellar Degeneration: a Single-Center Experience and Review of the Literature",
+      "year": 2019,
+      "locations": "Auvergne-Rhone-Alpes, France | Udine, Italy"
+    },
+    "Epilessia": {
+      "type": "nucleus",
+      "x": 2.7500000000000004,
+      "y": 4.763139720814412
+    },
+    "Seizure": {
+      "type": "article",
+      "x": 4.75,
+      "y": 4.763139720814412,
+      "category": "Epilessia",
+      "title": "Epilepsy with eyelid myoclonias (Jeavons syndrome): An electro-clinical study of 40 patients from childhood to adulthood",
+      "year": 2021,
+      "locations": "Ile-de-France, France | Marseille, France | Naples, Italy | Occitanie, France | Udine, Italy"
+    },
+    "Epilepsy and Behavior Reports": {
+      "type": "article",
+      "x": 2.7500000000000004,
+      "y": 6.763139720814412,
+      "category": "Epilessia",
+      "title": "Perampanel as add-on therapy in epilepsies with known etiology: A single center experience with long-term follow-up",
+      "year": 2021,
+      "locations": "Udine, Italy"
+    },
+    "Epilepsy and Behavior": {
+      "type": "article",
+      "x": 0.7500000000000004,
+      "y": 4.763139720814412,
+      "category": "Epilessia",
+      "title": "Status epilepticus mimicking stroke recurrence",
+      "year": 2020,
+      "locations": "Udine, Italy"
+    },
+    "Epilepsia": {
+      "type": "article",
+      "x": 2.75,
+      "y": 2.7631397208144124,
+      "category": "Epilessia",
+      "title": "Seizure specificities in patients with antibody-mediated autoimmune encephalitis",
+      "year": 2019,
+      "locations": "Auvergne-Rhone-Alpes, France | Udine, Italy"
+    },
+    "Medicina del Sonno": {
+      "type": "nucleus",
+      "x": -2.3244004395738465,
+      "y": 4.984692828701576
+    },
+    "Sleep Medicine": {
+      "type": "article",
+      "x": -0.32440043957384646,
+      "y": 4.984692828701576,
+      "category": "Medicina del Sonno",
+      "title": "Insomnia and daytime sleepiness predict 20-year mortality in older male adults: data from a population-based study",
+      "year": 2020,
+      "locations": "Udine, Italy"
+    },
+    "Nature and Science of Sleep": {
+      "type": "article",
+      "x": -4.3244004395738465,
+      "y": 4.984692828701576,
+      "category": "Medicina del Sonno",
+      "title": "Orgasmolepsy in narcolepsy type 1 responsive to pitolisant: A case report",
+      "year": 2020,
+      "locations": "Udine, Italy"
+    },
+    "Farmacologia e Terapie": {
+      "type": "nucleus",
+      "x": -5.416442641567144,
+      "y": 0.9550649771681166
+    },
+    "Expert Opinion on Pharmacotherapy": {
+      "type": "article",
+      "x": -4.898804551362104,
+      "y": -0.9767866754100203,
+      "category": "Farmacologia e Terapie",
+      "title": "Important decisions in choosing the pharmacotherapy for narcoleptics",
+      "year": 2019,
+      "locations": "Udine, Italy"
+    },
+    "Expert Opinion on Drug Metabolism and Toxicology": {
+      "type": "article",
+      "x": -3.484590988989008,
+      "y": 0.4374268869630752,
+      "category": "Farmacologia e Terapie",
+      "title": "Pharmacokinetic and pharmacodynamic considerations for the clinical efficacy of perampanel in focal onset seizures",
+      "year": 2019,
+      "locations": "Udine, Italy"
+    },
+    "Expert Review of Neurotherapeutics": {
+      "type": "article",
+      "x": -6.83065620394024,
+      "y": -0.45914858520497837,
+      "category": "Farmacologia e Terapie",
+      "title": "Timing use of novel anti-epileptic drugs: is earlier better?",
+      "year": 2019,
+      "locations": "Udine, Italy"
+    },
+    "Sottospecialità Neurologiche": {
+      "type": "nucleus",
+      "x": -3.889087296526012,
+      "y": -3.889087296526011
+    },
+    "Multiple Sclerosis and Related Disorders": {
+      "type": "article",
+      "x": -1.8890872965260121,
+      "y": -3.889087296526011,
+      "category": "Sottospecialità Neurologiche",
+      "title": "Lower lymphocyte counts and older age are associated with reduced multiple sclerosis disease activity during dimethyl fumarate treatment",
+      "year": 2021,
+      "locations": "Udine, Italy"
+    },
+    "Neurobiology of Aging": {
+      "type": "article",
+      "x": -3.889087296526012,
+      "y": -1.8890872965260108,
+      "category": "Sottospecialità Neurologiche",
+      "title": "SMPD1 variants do not have a major role in rapid eye movement sleep behavior disorder",
+      "year": 2020,
+      "locations": "Bologna, Italy | Cagliari, Italy | Geel, Belgium | Hauts-de-France, France | Hessen, Germany | Ile-de-France, France | Kassel, Germany | London, United Kingdom | Milan, Italy | Montpellier, France | Montreal, Canada | Mountain View, United States | Niedersachsen, Germany | Nordrhein-Westfalen, Germany | Occitania, France | Occitanie, France | Oxfordshire, United Kingdom | Prague, Czech Republic | Rochester, United States | Tyrol, Austria | Udine, Italy"
+    },
+    "Journal of NeuroVirology": {
+      "type": "article",
+      "x": -5.889087296526013,
+      "y": -3.8890872965260104,
+      "category": "Sottospecialità Neurologiche",
+      "title": "Epilepsia partialis continua revealing idelalisib-associated PML-IRIS: clinical and pathological features",
+      "year": 2020,
+      "locations": "Udine, Italy"
+    },
+    "Journal of Neuroimmunology": {
+      "type": "article",
+      "x": -3.8890872965260126,
+      "y": -5.889087296526011,
+      "category": "Sottospecialità Neurologiche",
+      "title": "Tacrolimus-induced severe headache associated with diffuse leukoencephalopathy: Evidence for an immune-mediated pathogenesis",
+      "year": 2019,
+      "locations": "Udine, Italy"
+    },
+    "Medicina Generale e Clinica": {
+      "type": "nucleus",
+      "x": 0.9550649771681148,
+      "y": -5.416442641567144
+    },
+    "Acta Biomedica": {
+      "type": "article",
+      "x": 2.36927853954121,
+      "y": -4.002229079194049,
+      "category": "Medicina Generale e Clinica",
+      "title": "Amplifying the spectrum of SPAST gene mutations",
+      "year": 2021,
+      "locations": "Udine, Italy"
+    },
+    "Journal of Thrombosis and Thrombolysis": {
+      "type": "article",
+      "x": 0.4374268869630735,
+      "y": -3.484590988989008,
+      "category": "Medicina Generale e Clinica",
+      "title": "Stress hyperglycemia is predictive of worse outcome in patients with acute ischemic stroke undergoing intravenous thrombolysis",
+      "year": 2021,
+      "locations": "Udine, Italy"
+    },
+    "Journal of Clinical Medicine": {
+      "type": "article",
+      "x": 2.8869166297462514,
+      "y": -5.934080731772186,
+      "category": "Medicina Generale e Clinica",
+      "title": "Efficacy and safety of intravenous thrombolysis in patients with acute ischemic stroke and pre–existing disability",
+      "year": 2019,
+      "locations": "Udine, Italy"
+    }
+  },
+  "edges": [
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Clinical Neurophysiology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Clinical Neurophysiology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Neurology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "eNeurologicalSci"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Brain"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Neurology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Neurology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Neurology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Neurology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Neuroscience Letters"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Neurological Sciences"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Clinical Neurophysiology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Neurology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "BMJ Neurology Open"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Neurology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Neurology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Cerebellum"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Seizure"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Epilepsy and Behavior Reports"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Epilepsy and Behavior"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Epilepsia"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Sleep Medicine"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Nature and Science of Sleep"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Expert Opinion on Pharmacotherapy"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Expert Opinion on Drug Metabolism and Toxicology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Expert Opinion on Pharmacotherapy"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Expert Review of Neurotherapeutics"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Expert Opinion on Pharmacotherapy"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Expert Opinion on Drug Metabolism and Toxicology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Multiple Sclerosis and Related Disorders"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Neurobiology of Aging"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of NeuroVirology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Neuroimmunology"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Acta Biomedica"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Thrombosis and Thrombolysis"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Clinical Medicine"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Clinical Medicine"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Clinical Medicine"
+    },
+    {
+      "source": "Gigli Gian Luigi",
+      "target": "Journal of Clinical Medicine"
+    }
+  ]
+}

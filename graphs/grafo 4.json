@@ -1,0 +1,1477 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "central",
+      "weight": 0,
+      "id": "Gigli Gian Luigi"
+    },
+    {
+      "type": "internal",
+      "weight": 13,
+      "id": "Neurological Clinic, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 11,
+      "id": "Department of Mathematics, Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 19,
+      "id": "Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 2,
+      "id": "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 2,
+      "id": "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 23,
+      "id": "Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 2,
+      "id": "Department of Laboratory Medicine, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 6,
+      "id": "Department of Neuroscience, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 10,
+      "id": "Department of Mathematics and Physics, Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Université Jean Monnet Saint Etienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+    },
+    {
+      "type": "foreign",
+      "weight": 4,
+      "id": "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Biochemistry, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+    },
+    {
+      "type": "internal",
+      "weight": 3,
+      "id": "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 2,
+      "id": "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 6,
+      "id": "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 15,
+      "id": "Department of Neuroscience, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 6,
+      "id": "Neurology Unit, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 3,
+      "id": "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Université de Montpellier, Montpellier, Occitanie, France"
+    },
+    {
+      "type": "foreign",
+      "weight": 2,
+      "id": "Department of Psychiatry, University of Montreal, Montreal, QC, Canada"
+    },
+    {
+      "type": "foreign",
+      "weight": 2,
+      "id": "Department of Sleep Medicine and Neuromuscular Disorders, University of Münster, Munster, Nordrhein-Westfalen, Germany"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada"
+    },
+    {
+      "type": "foreign",
+      "weight": 3,
+      "id": "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany"
+    },
+    {
+      "type": "italian",
+      "weight": 3,
+      "id": "Department of Neurological Sciences, Università Vita-Salute San Raffaele, Milan, MI, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 3,
+      "id": "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada"
+    },
+    {
+      "type": "foreign",
+      "weight": 3,
+      "id": "University of Oxford Medical Sciences Division, Oxford, Oxfordshire, United Kingdom"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neurology, Universitair Ziekenhuis Antwerpen, Edegem, VAN, Belgium"
+    },
+    {
+      "type": "italian",
+      "weight": 1,
+      "id": "Department of Biomedical, Università degli Studi di Modena e Reggio Emilia, Modena, MO, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 3,
+      "id": "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada"
+    },
+    {
+      "type": "foreign",
+      "weight": 3,
+      "id": "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France"
+    },
+    {
+      "type": "foreign",
+      "weight": 2,
+      "id": "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France"
+    },
+    {
+      "type": "italian",
+      "weight": 3,
+      "id": "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy"
+    },
+    {
+      "type": "italian",
+      "weight": 1,
+      "id": "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France"
+    },
+    {
+      "type": "foreign",
+      "weight": 2,
+      "id": "Department of Neuroscience, University of Montreal, Montreal, QC, Canada"
+    },
+    {
+      "type": "internal",
+      "weight": 2,
+      "id": "Department of Diagnostic Imaging, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Clinical Neurology Unit, Azienda Sanitaria Universitaria, Udine, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 3,
+      "id": "Department of Medical Area (DAME), Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Human Genetics, Université McGill, Montreal, QC, Canada"
+    },
+    {
+      "type": "foreign",
+      "weight": 2,
+      "id": "Department of Neurology, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Université de Lille, Lille, Hauts-de-France, France"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic"
+    },
+    {
+      "type": "foreign",
+      "weight": 2,
+      "id": "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France"
+    },
+    {
+      "type": "italian",
+      "weight": 1,
+      "id": "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy"
+    },
+    {
+      "type": "italian",
+      "weight": 1,
+      "id": "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neuroscience, Université du Québec à Montréal, Montreal, QC, Canada"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Psychiatry, Université du Québec à Montréal, Montreal, QC, Canada"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Institute of Pathology, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Institute of Hygiene and Clinical Epidemiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "italian",
+      "weight": 1,
+      "id": "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neurology and Rehabilitation, University of Illinois at Chicago, Chicago, IL, United States"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Neurological Clinic, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Pediatric Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Université de Lyon, Lyon, Auvergne-Rhone-Alpes, France"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 13,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurological Clinic, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 11,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Mathematics, Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 19,
+      "source": "Gigli Gian Luigi",
+      "target": "Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 23,
+      "source": "Gigli Gian Luigi",
+      "target": "Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Laboratory Medicine, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 6,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neuroscience, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 10,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Mathematics and Physics, Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Université Jean Monnet Saint Etienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+    },
+    {
+      "weight": 4,
+      "source": "Gigli Gian Luigi",
+      "target": "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Biochemistry, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 6,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 15,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neuroscience, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 6,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurology Unit, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Université de Montpellier, Montpellier, Occitanie, France"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Psychiatry, University of Montreal, Montreal, QC, Canada"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Sleep Medicine and Neuromuscular Disorders, University of Münster, Munster, Nordrhein-Westfalen, Germany"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurological Sciences, Università Vita-Salute San Raffaele, Milan, MI, Italy"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "University of Oxford Medical Sciences Division, Oxford, Oxfordshire, United Kingdom"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology, Universitair Ziekenhuis Antwerpen, Edegem, VAN, Belgium"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Biomedical, Università degli Studi di Modena e Reggio Emilia, Modena, MO, Italy"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neuroscience, University of Montreal, Montreal, QC, Canada"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Diagnostic Imaging, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Clinical Neurology Unit, Azienda Sanitaria Universitaria, Udine, Italy"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Medical Area (DAME), Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Human Genetics, Université McGill, Montreal, QC, Canada"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Université de Lille, Lille, Hauts-de-France, France"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neuroscience, Université du Québec à Montréal, Montreal, QC, Canada"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Psychiatry, Université du Québec à Montréal, Montreal, QC, Canada"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Institute of Pathology, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Institute of Hygiene and Clinical Epidemiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology and Rehabilitation, University of Illinois at Chicago, Chicago, IL, United States"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurological Clinic, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Pediatric Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Université de Lyon, Lyon, Auvergne-Rhone-Alpes, France"
+    }
+  ],
+  "positions": {
+    "Gigli Gian Luigi": [
+      0.003291437381970745,
+      0.0009063587833768778
+    ],
+    "Neurological Clinic, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      0.07529748422221896,
+      0.0862469107009869
+    ],
+    "Department of Mathematics, Università degli Studi di Udine, Udine, UD, Italy": [
+      -0.16504380075546676,
+      -0.04003543502080888
+    ],
+    "Università degli Studi di Udine, Udine, UD, Italy": [
+      -0.0893476140228525,
+      0.04830619956488381
+    ],
+    "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      0.18525533192999827,
+      0.30670234518372
+    ],
+    "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      -0.0781342948941102,
+      0.31711343656271257
+    ],
+    "Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
+      0.10057648704442272,
+      -0.040235383711662784
+    ],
+    "Department of Laboratory Medicine, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      -0.5234798127640844,
+      -0.15503914752660664
+    ],
+    "Department of Neuroscience, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      -0.3176118955475741,
+      -0.006397253251891697
+    ],
+    "Department of Mathematics and Physics, Università degli Studi di Udine, Udine, UD, Italy": [
+      0.03670520001745622,
+      -0.10666923735210614
+    ],
+    "Université Jean Monnet Saint Etienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
+      0.5973624817573441,
+      -0.39187812351471274
+    ],
+    "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
+      -0.750403131355338,
+      -0.27307570376541285
+    ],
+    "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France": [
+      0.030953501168757676,
+      0.19115691426819154
+    ],
+    "Department of Biochemistry, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
+      -0.8554627008213316,
+      0.22348161545214362
+    ],
+    "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      -0.1257783685703861,
+      -0.23960116124866426
+    ],
+    "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy": [
+      0.4873623878155704,
+      -0.20376016473958683
+    ],
+    "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy": [
+      -0.2125625124823095,
+      0.10282514745436067
+    ],
+    "Department of Neuroscience, Policlinico Universitario, Udine, Udine, UD, Italy": [
+      0.17724733725388273,
+      0.020856468197804345
+    ],
+    "Neurology Unit, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
+      -0.16954422178121364,
+      -0.12163778318079593
+    ],
+    "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria": [
+      0.27892262402075424,
+      -0.17809618657977402
+    ],
+    "Université de Montpellier, Montpellier, Occitanie, France": [
+      -0.9586348225579829,
+      0.048950940881171925
+    ],
+    "Department of Psychiatry, University of Montreal, Montreal, QC, Canada": [
+      -0.3972194843633812,
+      0.24950507346644793
+    ],
+    "Department of Sleep Medicine and Neuromuscular Disorders, University of Münster, Munster, Nordrhein-Westfalen, Germany": [
+      -0.5992412164764098,
+      0.08718068673425103
+    ],
+    "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada": [
+      0.08086684144025125,
+      0.4917476800299435
+    ],
+    "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany": [
+      -0.3136462799352308,
+      -0.18842452926395187
+    ],
+    "Department of Neurological Sciences, Università Vita-Salute San Raffaele, Milan, MI, Italy": [
+      0.4512427461760339,
+      0.012469631327088837
+    ],
+    "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada": [
+      0.24718559896739867,
+      0.19699355839891727
+    ],
+    "University of Oxford Medical Sciences Division, Oxford, Oxfordshire, United Kingdom": [
+      -0.1837264315415291,
+      0.21794739465291094
+    ],
+    "Department of Neurology, Universitair Ziekenhuis Antwerpen, Edegem, VAN, Belgium": [
+      -0.90390709400148,
+      -0.22321732644610237
+    ],
+    "Department of Biomedical, Università degli Studi di Modena e Reggio Emilia, Modena, MO, Italy": [
+      -0.9918429408645797,
+      -0.04370105993139731
+    ],
+    "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada": [
+      0.0654343126537312,
+      -0.23011151912957878
+    ],
+    "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France": [
+      0.40895469007205343,
+      -0.0921237577093282
+    ],
+    "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France": [
+      -0.601357941544164,
+      -0.03832394569954967
+    ],
+    "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy": [
+      -0.40848187161109345,
+      0.12547554620650325
+    ],
+    "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy": [
+      -0.30613709330640326,
+      0.4689238532298096
+    ],
+    "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": [
+      0.739901212950195,
+      -0.3263399877786096
+    ],
+    "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France": [
+      -0.6391788554717234,
+      0.37220270529419025
+    ],
+    "Department of Neuroscience, University of Montreal, Montreal, QC, Canada": [
+      0.4621315477862895,
+      0.22733678212789496
+    ],
+    "Department of Diagnostic Imaging, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      0.21584061521714368,
+      -0.29708865852310345
+    ],
+    "Clinical Neurology Unit, Azienda Sanitaria Universitaria, Udine, Italy": [
+      0.43459117850755924,
+      -0.440298996756397
+    ],
+    "Department of Medical Area (DAME), Università degli Studi di Udine, Udine, UD, Italy": [
+      0.3950795649609703,
+      0.11584555429463357
+    ],
+    "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      0.07255387176043011,
+      -0.5
+    ],
+    "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      -0.3646029592533872,
+      -0.41077794007849533
+    ],
+    "Department of Human Genetics, Université McGill, Montreal, QC, Canada": [
+      0.7697757426846449,
+      0.31313752794945005
+    ],
+    "Department of Neurology, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": [
+      0.6283603025705937,
+      -0.06537104354207954
+    ],
+    "Université de Lille, Lille, Hauts-de-France, France": [
+      -0.48387102721436653,
+      0.4299823022875857
+    ],
+    "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France": [
+      0.9563187730540128,
+      0.13540275335615035
+    ],
+    "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic": [
+      0.9839351040980645,
+      -0.06138692357336662
+    ],
+    "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France": [
+      0.621307471457489,
+      0.08760211121175931
+    ],
+    "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy": [
+      -0.6876377285200678,
+      -0.3559036911333265
+    ],
+    "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy": [
+      -0.7772142961016059,
+      0.30670653616919236
+    ],
+    "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany": [
+      -0.08454376979017751,
+      -0.45351184592858673
+    ],
+    "Department of Neuroscience, Université du Québec à Montréal, Montreal, QC, Canada": [
+      0.9353064628475971,
+      -0.15783161379913577
+    ],
+    "Department of Psychiatry, Université du Québec à Montréal, Montreal, QC, Canada": [
+      -0.11574968002133447,
+      0.4934019825062003
+    ],
+    "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy": [
+      -0.2619786871503247,
+      -0.4897686539249185
+    ],
+    "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      -0.5422056452208379,
+      -0.41389754142276286
+    ],
+    "Institute of Pathology, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
+      0.8755438876144142,
+      0.22806854669305343
+    ],
+    "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy": [
+      0.27793489658345905,
+      0.47786880807470017
+    ],
+    "Institute of Hygiene and Clinical Epidemiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      0.8549892993049897,
+      -0.24710816461401716
+    ],
+    "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy": [
+      0.9857868894096661,
+      0.03771274539925432
+    ],
+    "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      0.46063341677257247,
+      0.4378522076342356
+    ],
+    "Department of Neurology and Rehabilitation, University of Illinois at Chicago, Chicago, IL, United States": [
+      0.25331299327144735,
+      -0.4674952886471138
+    ],
+    "Neurological Clinic, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
+      -0.9178273297552973,
+      -0.12790689423413062
+    ],
+    "Pediatric Unit, Policlinico Universitario, Udine, Udine, UD, Italy": [
+      0.6275042146065671,
+      0.3844391233271178
+    ],
+    "Université de Lyon, Lyon, Auvergne-Rhone-Alpes, France": [
+      -0.9510923996839086,
+      0.14266551460733085
+    ]
+  },
+  "categories": {
+    "Speeding Up Floyd–Warshall’s Algorithm\nto Compute All-Pairs Shortest\nPaths and the Transitive\nClosure of a Graph": [
+      "Math",
+      "Science computing"
+    ],
+    "Dynamic Temperature Control of\nSimulated Annealing using Hyper-Heuristics": [
+      "Math",
+      "Science computing",
+      "Engineering"
+    ],
+    "A Deep Learning Model\nIntegrating Clinical and MRI\nFeatures Improves Risk Stratification\nand Reduces Unnecessary Biopsies\nin Men with Suspected\nProstate Cancer": [
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science",
+      "Engineering"
+    ],
+    "The Single-Parameter Bragg–Williams Model\nfor Eutectic Solvents": [
+      "Physics/Hard Science"
+    ],
+    "Teaching and learning quantum\nentanglement: a discussion on\ndifferent perspectives": [
+      "Physics/Hard Science"
+    ],
+    "Teachers' Perspectives and Practices\non Teaching the Properties\nof Matter": [
+      "Other"
+    ],
+    "Converse Lyapunov results for\nstability of switched systems\nwith average dwell-time": [
+      "Science computing"
+    ],
+    "Bluues_cplx: Electrostatics at Protein–Protein\nand Protein–Ligand Interfaces": [
+      "Science computing",
+      "Physics/Hard Science"
+    ],
+    "Wave Digital Extended Fixed-Point\nSolvers for Circuits With\nMultiple One-Port Nonlinearities": [
+      "Science computing"
+    ],
+    "Fusion-Based LSTM-GRU-Attention Model for\nTime Series Forecasting of\nFouling Factor in Polymer\nProduction Reactor": [
+      "Science computing"
+    ],
+    "GPU Accelerated Compact-Table Propagation": [
+      "Math",
+      "Science computing"
+    ],
+    "Diophantine Modeling of Provability\nin Algebraic Logic": [
+      "Math",
+      "Science computing"
+    ],
+    "GPU-Accelerated Propagation for the\nStable Marriage Constraint": [
+      "Science computing"
+    ],
+    "A Multi-phase Research on\nDeveloping Proposals for Teaching\nthe Properties of Matter\nin Early Scientific Education:\nFocusing on Teacher Practices": [
+      "Physics/Hard Science"
+    ],
+    "The ‘obligatory passage point’\nin knowledge co-production: Italy’s\nparticipatory environmental monitoring platform": [
+      "Other"
+    ],
+    "ccReact: a rewriting framework\nfor the formal analysis\nof reaction systems": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Locuaz: an in silico\nplatform for protein binders\noptimization": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science",
+      "Engineering"
+    ],
+    "Algorithmic strategies for a\nfast exploration of the\nTSP 4 -OPT neighborhood": [
+      "Math",
+      "Science computing"
+    ],
+    "Folding Domain Functions (FDF):\nA Random Variable Transformation\ntechnique for the non-invertible\ncase, with applications to\nRDEs": [
+      "Math",
+      "Science computing"
+    ],
+    "Robust Federated Learning for\nHeterogeneous Model and Data": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Ensemble of KalmanNets for\nManeuvering Target Tracking": [
+      "Science computing"
+    ],
+    "Defect detection MultiHeadAttention Fusion\nmodel on images acquired\nwith different light sources": [
+      "Science computing"
+    ],
+    "FeU-Net: Overcomplete representations with\nlarge kernels for edge\ndetection": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Process Calculi and Rewriting\nTechniques for Analyzing Reaction\nSystems": [
+      "Math",
+      "Science computing"
+    ],
+    "Is ImageNet Always the\nBest Option? An Overview\non Transfer Learning Strategies\nfor Document Layout Analysis": [
+      "Science computing",
+      "Medicine/Health",
+      "Engineering"
+    ],
+    "Federated Learning for Data\nand Model Heterogeneity in\nMedical Imaging": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "The kth nearest neighbor\nmethod for estimation of\nentropy changes from molecular\nensembles": [
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Exploring the role of\ncyclodextrins as a cholesterol\nscavenger: a molecular dynamics\ninvestigation of conformational changes\nand thermodynamics": [
+      "Science computing",
+      "Physics/Hard Science"
+    ],
+    "On the Effect of\nUser Tracking on Perceived\nSource Positions in Mobile\nAudio Augmented Reality": [
+      "Science computing"
+    ],
+    "Swarm-FHE: Fully Homomorphic Encryption-based\nSwarm Learning for Malicious\nClients": [
+      "Science computing"
+    ],
+    "Fast or Slow? A\nComparison Between Two Transcranial\nElectrical Stimulation Techniques for\nEliciting Motor-Evoked Potentials During\nSupratentorial Surgery": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Engineering"
+    ],
+    "Molecular electrostatics and pKa\nshifts calculations with the\nGeneralized Born model. A\ntutorial through examples with\nBluues2": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "A new collimated multichannel\nmodular detection system based\non Silicon Drift Detectors": [
+      "Other"
+    ],
+    "Safety enforcement via programmable\nstrategies in Maude": [
+      "Math",
+      "Science computing"
+    ],
+    "eXTP Large Area Detector:\nQualification procedure of the\nmass production": [
+      "Physics/Hard Science"
+    ],
+    "Approaches and Teaching Resources\nfor Teacher Education in\nQuantum Physics": [
+      "Physics/Hard Science"
+    ],
+    "Acquisition and integration of\ndifferential pressure measurements on\nsails for boat performances\nimprovement": [
+      "Science computing"
+    ],
+    "Deep Classifiers Evidential Fusion\nwith Reliability": [
+      "Science computing"
+    ],
+    "Extended Fixed-Point Methods for\nthe Computation of Virtual\nAnalog Models": [
+      "Math",
+      "Science computing",
+      "Engineering"
+    ],
+    "Exploring ILASP Through Logic\nPuzzles Modelling": [
+      "Math",
+      "Science computing"
+    ],
+    "Continued Hereditarily Finite Set-Approximations": [
+      "Math"
+    ],
+    "Detection of Wastewater Pollution\nThrough Natural Language Generation\nWith a Low-Cost Sensing\nPlatform": [
+      "Science computing",
+      "Engineering"
+    ],
+    "Risk Factors for Intraoperative\nSeizures in Glioma Surgery:\nElectrocorticography Matters": [
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science",
+      "Engineering"
+    ],
+    "Computing (optimal) embeddings of\ndirected bigraphs": [
+      "Math",
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Modeling Approaches for Gain,\nNoise and Time Response\nof Avalanche Photodiodes for\nX-Rays Detection": [
+      "Science computing"
+    ],
+    "Combining Deep Phenotyping of\nSerum Proteomics and Clinical\nData via Machine Learning\nfor COVID-19 Biomarker Discovery": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Training Prospective Primary and\nKindergarten Teachers on Electric\nCircuits Using Conceptual Metaphors": [
+      "Science computing"
+    ],
+    "Symbolic Specialization of Rewriting\nLogic Theories with Presto": [
+      "Math",
+      "Science computing"
+    ],
+    "Efficient Detection and Localization\nof Acoustic Sources with\na low complexity CNN\nnetwork and the Diagonal\nUnloading Beamforming": [
+      "Math",
+      "Science computing"
+    ],
+    "Variant-Based Equational Anti-unification": [
+      "Science computing"
+    ],
+    "Modeling and Solving the\nRush Hour puzzle": [
+      "Math",
+      "Science computing"
+    ],
+    "A partial evaluation methodology\nfor optimizing rewrite theories\nincrementally": [
+      "Math",
+      "Science computing",
+      "Engineering"
+    ],
+    "Fusion of sentence embeddings\nfor news retrieval": [
+      "Science computing"
+    ],
+    "Evidential Decision Fusion of\nDeep Neural Networks for\nCovid Diagnosis": [
+      "Math",
+      "Science computing"
+    ],
+    "Conceptual metaphor in teaching/learning\nelectric circuits for student\nteachers of primary school\nand kindergarten": [
+      "Physics/Hard Science"
+    ],
+    "Young drivers’ pedestrian anti-collision\nbraking operation data modelling\nfor ADAS development": [
+      "Science computing"
+    ],
+    "Bituminous mixtures experimental data\nmodeling using a hyperparameters‐optimized\nmachine learning approach": [
+      "Math",
+      "Science computing"
+    ],
+    "Epilepsy and episodic ataxia\ntype 2: family study\nand review of the\nliterature": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Optimal Relabeling of Water\nMolecules and Single-Molecule Entropy\nEstimation": [
+      "Science computing",
+      "Physics/Hard Science"
+    ],
+    "Surrogate safety measures prediction\nat multiple timescales in\nv2p conflicts based on\ngated recurrent unit": [
+      "Other"
+    ],
+    "A novel de novo\nHDAC8 missense mutation causing\nCornelia de Lange syndrome": [
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Stimulus-Induced Rhythmic or Periodic\nIntermittent Discharges (SIRPIDs) in\npatients with triphasic waves\nand Creutzfeldt-Jakob disease": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Constraining the environment of\nneutrino-emitting regions in jets\nof FSRQs": [
+      "Science computing"
+    ],
+    "Case report and ten-year\nfollow-up of episodic ataxia\ntype 2 due to\na novel variant in\nCACNA1A": [
+      "Medicine/Health"
+    ],
+    "Entropy of Two-Molecule Correlated\nTranslational-Rotational Motions Using the\nkth Nearest Neighbor Method": [
+      "Physics/Hard Science"
+    ],
+    "Unclear association between COVID-19\nand Guillain-Barré syndrome": [
+      "Math",
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Amplifying the spectrum of\nSPAST gene mutations": [
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Epilepsy with eyelid myoclonias\n(Jeavons syndrome): An electro-clinical\nstudy of 40 patients\nfrom childhood to adulthood": [
+      "Science computing",
+      "Medicine/Health",
+      "Engineering"
+    ],
+    "Lower lymphocyte counts and\nolder age are associated\nwith reduced multiple sclerosis\ndisease activity during dimethyl\nfumarate treatment": [
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Stress hyperglycemia is predictive\nof worse outcome in\npatients with acute ischemic\nstroke undergoing intravenous thrombolysis": [
+      "Math",
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Reply to \"Guillain‑Barré syndrome\nin the COVID‑19 era\nanother occasional cluster?\": Insights\nfrom two distinct clusters\nof Guillain–Barré syndrome detected\nin Europe in the\nCOVID-19 era": [
+      "Science computing"
+    ],
+    "Guillain-Barré syndrome in the\nCOVID-19 era: just an\noccasional cluster?": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Novel Associations of BST1\nand LAMP3 With REM\nSleep Behavior Disorder": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Trends in engineering education\nfor additive manufacturing in\nthe industry 4.0 era:\na systematic literature review": [
+      "Science computing",
+      "Engineering"
+    ],
+    "Causality in COVID-19-associated stroke:\na uniform case definition\nfor use in clinical\nresearch": [
+      "Math",
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Stroke in patients with\nCOVID-19: Clinical and neuroimaging\ncharacteristics": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science",
+      "Engineering"
+    ],
+    "IS AN AUDITORY EVENT\nMORE TAKETE?": [
+      "Other"
+    ],
+    "Perampanel as add-on therapy\nin epilepsies with known\netiology: A single center\nexperience with long-term follow-up": [
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Evaluating pitolisant as a\nnarcolepsy treatment option": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "HLA and immunological features\nof SARS-CoV-2-induced Guillain-Barré syndrome": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Differential forms and quadrics\nof the canonical image": [
+      "Science computing"
+    ],
+    "Student Learning Paths from\nExploration of Optical Diffraction\nwith Online Sensors to\nFormal Interpretative Models": [
+      "Engineering"
+    ],
+    "IDIFO6 MQ_P: A Course\nfor In-Service Secondary School\nTeachers Education on Modern\nPhysics": [
+      "Science computing",
+      "Physics/Hard Science"
+    ],
+    "Fundamental physics and physics\neducation research": [
+      "Physics/Hard Science"
+    ],
+    "Time as Topic Transversal\nPerspective in Teacher Professional\nDevelopment Carry Out in\nthe Master in Science\nEducation": [
+      "Other"
+    ],
+    "Research-Based Path Proposal on\nOptical Spectroscopy in Secondary\nSchool": [
+      "Physics/Hard Science"
+    ],
+    "Innovation of Curriculum and\nFrontiers of Fundamental Physics\nin Secondary School: Research-Based\nProposals": [
+      "Physics/Hard Science"
+    ],
+    "SPETTROGRAFO: A Digital Spectrometer\nfor Educational Lab Activities": [
+      "Physics/Hard Science"
+    ],
+    "Finding the best 3-opt\nmove in subcubic time": [
+      "Science computing"
+    ],
+    "Brivaracetam for the treatment\nof focal-onset seizures: pharmacokinetic\nand pharmacodynamic evaluations": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Spikes/spike-waves time-locked to the\nflash frequency during intermittent\nlight stimulation in Jeavons\nsyndrome": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Insomnia and daytime sleepiness\npredict 20-year mortality in\nolder male adults: data\nfrom a population-based study": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Engineering"
+    ],
+    "SMPD1 variants do not\nhave a major role\nin rapid eye movement\nsleep behavior disorder": [
+      "Medicine/Health",
+      "Engineering"
+    ],
+    "Efficient Safety Enforcement for\nMaude Programs via Program\nSpecialization in the ÁTAME\nSystem": [
+      "Other"
+    ],
+    "GBA variants in REM\nsleep behavior disorder: A\nmulticenter study": [
+      "Medicine/Health"
+    ],
+    "May lamotrigine be an\nalternative to topiramate in\nthe prevention of migraine\nwith aura? Results of\na retrospective study": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Stroke in patients with\nSARS-CoV-2 infection: case series": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Unit cell restricted Bloch\nfunctions basis for first-principle\ntransport models: Theory and\napplication": [
+      "Science computing",
+      "Physics/Hard Science"
+    ],
+    "Missense NR2F1 variant in\nmonozygotic twins affected with\nthe Bosch–Boonstra–Schaaf optic atrophy\nsyndrome": [
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "A scalable system for\nthe monitoring of video\ntransmission components in delay-sensitive\nnetworked applications": [
+      "Science computing",
+      "Engineering"
+    ],
+    "Erratum: Stabilization of negative\ncapacitance in ferroelectric capacitors\nwith and without a\nmetal interlayer (Nanoscale (2020)\n12 (6121-6129) DOI: 10.1039/C9NR09470A)": [
+      "Physics/Hard Science"
+    ],
+    "Dynamic hyperglycemic patterns predict\nadverse outcomes in patients\nwith acute ischemic stroke\nundergoing mechanical thrombectomy": [
+      "Science computing",
+      "Medicine/Health",
+      "Engineering"
+    ],
+    "Epilepsia partialis continua revealing\nidelalisib-associated PML-IRIS: clinical and\npathological features": [
+      "Math",
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "EFP 2.0: A multi-agent\nepistemic solver with multiple\nE-state representations": [
+      "Science computing"
+    ],
+    "Stabilization of negative capacitance\nin ferroelectric capacitors with\nand without a metal\ninterlayer": [
+      "Math",
+      "Physics/Hard Science"
+    ],
+    "To treat or not\nto treat: Importance of\nfunctional dependence in deciding\nintravenous thrombolysis of “Mild\nstroke” patients": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Status epilepticus mimicking stroke\nrecurrence": [
+      "Science computing",
+      "Medicine/Health",
+      "Engineering"
+    ],
+    "An enquiry into the\ncauses of an explosion\naccident occurred in a\nbiogas plant": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Research-Based Innovation in Introductory\nPhysics Course for Biotechnology\nStudents": [
+      "Science computing",
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "Dialogue on Primary, Secondary\nand University Pre-service Teacher\nEducation in Physics": [
+      "Physics/Hard Science"
+    ],
+    "Orgasmolepsy in narcolepsy type\n1 responsive to pitolisant:\nA case report": [
+      "Other"
+    ],
+    "3coSoKu and its logic\nprogramming modeling ?": [
+      "Math",
+      "Science computing"
+    ],
+    "Computing Embeddings of Directed\nBigraphs": [
+      "Math",
+      "Science computing"
+    ],
+    "Investigating the Relationships Between\nAdditive Manufacturing and TRIZ:\nTrends and Perspectives": [
+      "Engineering"
+    ],
+    "Epidemiology of paraneoplastic neurological\nsyndromes: a population-based study": [
+      "Math",
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Revised analysis of negative\ncapacitance in ferroelectric-insulator capacitors:\nAnalytical and numerical results,\nphysical insight, comparison to\nexperiments": [
+      "Math",
+      "Physics/Hard Science"
+    ],
+    "Advancing synthetic therapies for\nthe treatment of restless\nlegs syndrome": [
+      "Medicine/Health",
+      "Physics/Hard Science",
+      "Engineering"
+    ],
+    "Seizures do not affect\ndisability and mortality outcomes\nof stroke: A population-based\nstudy": [
+      "Science computing",
+      "Medicine/Health",
+      "Engineering"
+    ],
+    "Timing use of novel\nanti-epileptic drugs: is earlier\nbetter?": [
+      "Medicine/Health"
+    ],
+    "Stroke-Like Presentation of Paraneoplastic\nCerebellar Degeneration: a Single-Center\nExperience and Review of\nthe Literature": [
+      "Medicine/Health"
+    ],
+    "Distributed answer set coloring:\nStable models computation via\ngraph coloring": [
+      "Math",
+      "Science computing"
+    ],
+    "DFT study of graphene\ndoping due to metal\ncontacts": [
+      "Physics/Hard Science"
+    ],
+    "Symbolic Analysis of Maude\nTheories with Narval": [
+      "Math",
+      "Science computing"
+    ],
+    "Research-Based Proposals on Optical\nSpectroscopy and Secondary Students'\nLearning Outcomes": [
+      "Science computing",
+      "Physics/Hard Science"
+    ],
+    "Tacrolimus-induced severe headache associated\nwith diffuse leukoencephalopathy: Evidence\nfor an immune-mediated pathogenesis": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Important decisions in choosing\nthe pharmacotherapy for narcoleptics": [
+      "Medicine/Health"
+    ],
+    "Efficacy and safety of\nintravenous thrombolysis in patients\nwith acute ischemic stroke\nand pre–existing disability": [
+      "Science computing",
+      "Medicine/Health",
+      "Engineering"
+    ],
+    "Pharmacokinetic and pharmacodynamic considerations\nfor the clinical efficacy\nof perampanel in focal\nonset seizures": [
+      "Science computing",
+      "Medicine/Health"
+    ],
+    "Algorithmic Strategies for a\nFast Exploration of the\nTSP 4-OPT Neighborhood": [
+      "Science computing"
+    ],
+    "Imposing assertions in Maude\nvia program transformation": [
+      "Math",
+      "Science computing"
+    ],
+    "Towards distributed computation of\nanswer sets": [
+      "Math",
+      "Science computing"
+    ],
+    "Seizure specificities in patients\nwith antibody-mediated autoimmune encephalitis": [
+      "Medicine/Health",
+      "Physics/Hard Science"
+    ],
+    "ACUOS^ 2 : A\nHigh-Performance System for Modular\nACU Generalization with Subtyping\nand Inheritance": [
+      "Math",
+      "Science computing"
+    ],
+    "Speeding-up the Exploration of\nthe -OPT Neighborhood for\nthe TSP": [
+      "Other"
+    ],
+    "A Web Application for\nCreating and Sharing Visual\nBibliographies": [
+      "Science computing"
+    ],
+    "Deciding hedged bisimilarity": [
+      "Math"
+    ],
+    "New modeling ideas for\nthe exact solution of\nthe closest string problem": [
+      "Math",
+      "Science computing"
+    ],
+    "Inferring Safe Maude Programs\nwith ÁTAME": [
+      "Math",
+      "Science computing"
+    ],
+    "Usable and Accessible Tourism\nWebsites for Children: A\nCase Study of a\nNaturalistic Oasis": [
+      "Science computing",
+      "Engineering"
+    ],
+    "Preface": [
+      "Other"
+    ],
+    "Modeling and developing a\nlearning design system based\non graphic organizers": [
+      "Science computing"
+    ],
+    "On sets and graphs:\nPerspectives on logic and\ncombinatorics": [
+      "Math",
+      "Science computing"
+    ]
+  }
+}
