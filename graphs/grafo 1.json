@@ -1,0 +1,871 @@
+{
+  "2017": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Altenkirch, Thorsten (22333517400)"
+      },
+      {
+        "id": "Chaudhuri, Kaustuv Ray (8984178700)"
+      },
+      {
+        "id": "Dowek, Gilles (6602138388)"
+      },
+      {
+        "id": "Felty, Amy P. (6602488070)"
+      },
+      {
+        "id": "Filinski, Andrzej (6603203815)"
+      },
+      {
+        "id": "Miculan, Marino (6602346936)"
+      },
+      {
+        "id": "Rabe, Florian (25121805000)"
+      },
+      {
+        "id": "Ricciotti, Wilmer (26322835100)"
+      },
+      {
+        "id": "Sacerdoti Coen, Claudio (8228184800)"
+      },
+      {
+        "id": "Sojakova, Kristina (34977769500)"
+      }
+    ],
+    "edges": [
+      {
+        "weight": 1,
+        "source": "Altenkirch, Thorsten (22333517400)",
+        "target": "Chaudhuri, Kaustuv Ray (8984178700)"
+      },
+      {
+        "weight": 1,
+        "source": "Altenkirch, Thorsten (22333517400)",
+        "target": "Dowek, Gilles (6602138388)"
+      },
+      {
+        "weight": 1,
+        "source": "Altenkirch, Thorsten (22333517400)",
+        "target": "Felty, Amy P. (6602488070)"
+      },
+      {
+        "weight": 1,
+        "source": "Altenkirch, Thorsten (22333517400)",
+        "target": "Filinski, Andrzej (6603203815)"
+      },
+      {
+        "weight": 1,
+        "source": "Altenkirch, Thorsten (22333517400)",
+        "target": "Miculan, Marino (6602346936)"
+      },
+      {
+        "weight": 1,
+        "source": "Altenkirch, Thorsten (22333517400)",
+        "target": "Rabe, Florian (25121805000)"
+      },
+      {
+        "weight": 1,
+        "source": "Altenkirch, Thorsten (22333517400)",
+        "target": "Ricciotti, Wilmer (26322835100)"
+      },
+      {
+        "weight": 1,
+        "source": "Altenkirch, Thorsten (22333517400)",
+        "target": "Sacerdoti Coen, Claudio (8228184800)"
+      },
+      {
+        "weight": 1,
+        "source": "Altenkirch, Thorsten (22333517400)",
+        "target": "Sojakova, Kristina (34977769500)"
+      },
+      {
+        "weight": 1,
+        "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+        "target": "Dowek, Gilles (6602138388)"
+      },
+      {
+        "weight": 1,
+        "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+        "target": "Felty, Amy P. (6602488070)"
+      },
+      {
+        "weight": 1,
+        "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+        "target": "Filinski, Andrzej (6603203815)"
+      },
+      {
+        "weight": 1,
+        "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+        "target": "Miculan, Marino (6602346936)"
+      },
+      {
+        "weight": 1,
+        "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+        "target": "Rabe, Florian (25121805000)"
+      },
+      {
+        "weight": 1,
+        "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+        "target": "Ricciotti, Wilmer (26322835100)"
+      },
+      {
+        "weight": 1,
+        "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+        "target": "Sacerdoti Coen, Claudio (8228184800)"
+      },
+      {
+        "weight": 1,
+        "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+        "target": "Sojakova, Kristina (34977769500)"
+      },
+      {
+        "weight": 1,
+        "source": "Dowek, Gilles (6602138388)",
+        "target": "Felty, Amy P. (6602488070)"
+      },
+      {
+        "weight": 1,
+        "source": "Dowek, Gilles (6602138388)",
+        "target": "Filinski, Andrzej (6603203815)"
+      },
+      {
+        "weight": 1,
+        "source": "Dowek, Gilles (6602138388)",
+        "target": "Miculan, Marino (6602346936)"
+      },
+      {
+        "weight": 1,
+        "source": "Dowek, Gilles (6602138388)",
+        "target": "Rabe, Florian (25121805000)"
+      },
+      {
+        "weight": 1,
+        "source": "Dowek, Gilles (6602138388)",
+        "target": "Ricciotti, Wilmer (26322835100)"
+      },
+      {
+        "weight": 1,
+        "source": "Dowek, Gilles (6602138388)",
+        "target": "Sacerdoti Coen, Claudio (8228184800)"
+      },
+      {
+        "weight": 1,
+        "source": "Dowek, Gilles (6602138388)",
+        "target": "Sojakova, Kristina (34977769500)"
+      },
+      {
+        "weight": 1,
+        "source": "Felty, Amy P. (6602488070)",
+        "target": "Filinski, Andrzej (6603203815)"
+      },
+      {
+        "weight": 1,
+        "source": "Felty, Amy P. (6602488070)",
+        "target": "Miculan, Marino (6602346936)"
+      },
+      {
+        "weight": 1,
+        "source": "Felty, Amy P. (6602488070)",
+        "target": "Rabe, Florian (25121805000)"
+      },
+      {
+        "weight": 1,
+        "source": "Felty, Amy P. (6602488070)",
+        "target": "Ricciotti, Wilmer (26322835100)"
+      },
+      {
+        "weight": 1,
+        "source": "Felty, Amy P. (6602488070)",
+        "target": "Sacerdoti Coen, Claudio (8228184800)"
+      },
+      {
+        "weight": 1,
+        "source": "Felty, Amy P. (6602488070)",
+        "target": "Sojakova, Kristina (34977769500)"
+      },
+      {
+        "weight": 1,
+        "source": "Filinski, Andrzej (6603203815)",
+        "target": "Miculan, Marino (6602346936)"
+      },
+      {
+        "weight": 1,
+        "source": "Filinski, Andrzej (6603203815)",
+        "target": "Rabe, Florian (25121805000)"
+      },
+      {
+        "weight": 1,
+        "source": "Filinski, Andrzej (6603203815)",
+        "target": "Ricciotti, Wilmer (26322835100)"
+      },
+      {
+        "weight": 1,
+        "source": "Filinski, Andrzej (6603203815)",
+        "target": "Sacerdoti Coen, Claudio (8228184800)"
+      },
+      {
+        "weight": 1,
+        "source": "Filinski, Andrzej (6603203815)",
+        "target": "Sojakova, Kristina (34977769500)"
+      },
+      {
+        "weight": 1,
+        "source": "Miculan, Marino (6602346936)",
+        "target": "Rabe, Florian (25121805000)"
+      },
+      {
+        "weight": 1,
+        "source": "Miculan, Marino (6602346936)",
+        "target": "Ricciotti, Wilmer (26322835100)"
+      },
+      {
+        "weight": 1,
+        "source": "Miculan, Marino (6602346936)",
+        "target": "Sacerdoti Coen, Claudio (8228184800)"
+      },
+      {
+        "weight": 1,
+        "source": "Miculan, Marino (6602346936)",
+        "target": "Sojakova, Kristina (34977769500)"
+      },
+      {
+        "weight": 1,
+        "source": "Rabe, Florian (25121805000)",
+        "target": "Ricciotti, Wilmer (26322835100)"
+      },
+      {
+        "weight": 1,
+        "source": "Rabe, Florian (25121805000)",
+        "target": "Sacerdoti Coen, Claudio (8228184800)"
+      },
+      {
+        "weight": 1,
+        "source": "Rabe, Florian (25121805000)",
+        "target": "Sojakova, Kristina (34977769500)"
+      },
+      {
+        "weight": 1,
+        "source": "Ricciotti, Wilmer (26322835100)",
+        "target": "Sacerdoti Coen, Claudio (8228184800)"
+      },
+      {
+        "weight": 1,
+        "source": "Ricciotti, Wilmer (26322835100)",
+        "target": "Sojakova, Kristina (34977769500)"
+      },
+      {
+        "weight": 1,
+        "source": "Sacerdoti Coen, Claudio (8228184800)",
+        "target": "Sojakova, Kristina (34977769500)"
+      }
+    ]
+  },
+  "2018": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Dattolo, Antonina (6602802183)"
+      }
+    ],
+    "edges": []
+  },
+  "2019": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Gigli, Gian Luigi (7101781977)"
+      }
+    ],
+    "edges": []
+  },
+  "2020": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Gigli, Gian Luigi (7101781977)"
+      }
+    ],
+    "edges": []
+  },
+  "2021": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Gigli, Gian Luigi (7101781977)"
+      }
+    ],
+    "edges": []
+  },
+  "2022": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Foresti, Gian Luca (7006427233)"
+      }
+    ],
+    "edges": []
+  },
+  "2023": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Orzan, Giulio (15844195800)"
+      },
+      {
+        "id": "Rachevski, Alexandre (14833311600)"
+      },
+      {
+        "id": "Zampa, Gianluigi (13907240300)"
+      },
+      {
+        "id": "Vacchi, Andrea (7006481955)"
+      },
+      {
+        "id": "Antonelli, Matias (56341882700)"
+      },
+      {
+        "id": "Ficorella, Francesco (8950891400)"
+      },
+      {
+        "id": "Borghi, Giacomo (57514565100)"
+      },
+      {
+        "id": "Pepponi, Giancarlo (6601958776)"
+      },
+      {
+        "id": "Picciotto, Antonino (35752403000)"
+      },
+      {
+        "id": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "id": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "id": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "id": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "id": "Cirrincione, Daniela (57201132189)"
+      }
+    ],
+    "edges": [
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Antonelli, Matias (56341882700)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Borghi, Giacomo (57514565100)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Ficorella, Francesco (8950891400)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Pepponi, Giancarlo (6601958776)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Picciotto, Antonino (35752403000)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Rachevski, Alexandre (14833311600)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Zampa, Gianluigi (13907240300)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Orzan, Giulio (15844195800)",
+        "target": "Vacchi, Andrea (7006481955)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Antonelli, Matias (56341882700)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Borghi, Giacomo (57514565100)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Ficorella, Francesco (8950891400)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Pepponi, Giancarlo (6601958776)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Picciotto, Antonino (35752403000)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Zampa, Gianluigi (13907240300)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Rachevski, Alexandre (14833311600)",
+        "target": "Vacchi, Andrea (7006481955)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Antonelli, Matias (56341882700)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Borghi, Giacomo (57514565100)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Ficorella, Francesco (8950891400)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Pepponi, Giancarlo (6601958776)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Picciotto, Antonino (35752403000)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Gianluigi (13907240300)",
+        "target": "Vacchi, Andrea (7006481955)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Antonelli, Matias (56341882700)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Borghi, Giacomo (57514565100)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Ficorella, Francesco (8950891400)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Pepponi, Giancarlo (6601958776)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Picciotto, Antonino (35752403000)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Vacchi, Andrea (7006481955)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Antonelli, Matias (56341882700)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Antonelli, Matias (56341882700)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Antonelli, Matias (56341882700)",
+        "target": "Borghi, Giacomo (57514565100)"
+      },
+      {
+        "weight": 2,
+        "source": "Antonelli, Matias (56341882700)",
+        "target": "Ficorella, Francesco (8950891400)"
+      },
+      {
+        "weight": 2,
+        "source": "Antonelli, Matias (56341882700)",
+        "target": "Pepponi, Giancarlo (6601958776)"
+      },
+      {
+        "weight": 2,
+        "source": "Antonelli, Matias (56341882700)",
+        "target": "Picciotto, Antonino (35752403000)"
+      },
+      {
+        "weight": 2,
+        "source": "Antonelli, Matias (56341882700)",
+        "target": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "weight": 2,
+        "source": "Antonelli, Matias (56341882700)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Antonelli, Matias (56341882700)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Ficorella, Francesco (8950891400)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Ficorella, Francesco (8950891400)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Ficorella, Francesco (8950891400)",
+        "target": "Borghi, Giacomo (57514565100)"
+      },
+      {
+        "weight": 2,
+        "source": "Ficorella, Francesco (8950891400)",
+        "target": "Pepponi, Giancarlo (6601958776)"
+      },
+      {
+        "weight": 2,
+        "source": "Ficorella, Francesco (8950891400)",
+        "target": "Picciotto, Antonino (35752403000)"
+      },
+      {
+        "weight": 2,
+        "source": "Ficorella, Francesco (8950891400)",
+        "target": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "weight": 2,
+        "source": "Ficorella, Francesco (8950891400)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Ficorella, Francesco (8950891400)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Borghi, Giacomo (57514565100)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Borghi, Giacomo (57514565100)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Borghi, Giacomo (57514565100)",
+        "target": "Pepponi, Giancarlo (6601958776)"
+      },
+      {
+        "weight": 2,
+        "source": "Borghi, Giacomo (57514565100)",
+        "target": "Picciotto, Antonino (35752403000)"
+      },
+      {
+        "weight": 2,
+        "source": "Borghi, Giacomo (57514565100)",
+        "target": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "weight": 2,
+        "source": "Borghi, Giacomo (57514565100)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Borghi, Giacomo (57514565100)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Pepponi, Giancarlo (6601958776)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Pepponi, Giancarlo (6601958776)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Pepponi, Giancarlo (6601958776)",
+        "target": "Picciotto, Antonino (35752403000)"
+      },
+      {
+        "weight": 2,
+        "source": "Pepponi, Giancarlo (6601958776)",
+        "target": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "weight": 2,
+        "source": "Pepponi, Giancarlo (6601958776)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Pepponi, Giancarlo (6601958776)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Picciotto, Antonino (35752403000)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Picciotto, Antonino (35752403000)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Picciotto, Antonino (35752403000)",
+        "target": "Rashevskaya, Irina (15844304700)"
+      },
+      {
+        "weight": 2,
+        "source": "Picciotto, Antonino (35752403000)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Picciotto, Antonino (35752403000)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Rashevskaya, Irina (15844304700)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Rashevskaya, Irina (15844304700)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Rashevskaya, Irina (15844304700)",
+        "target": "Zampa, Nicola (7003303902)"
+      },
+      {
+        "weight": 2,
+        "source": "Rashevskaya, Irina (15844304700)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Nicola (7003303902)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Nicola (7003303902)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Zampa, Nicola (7003303902)",
+        "target": "Zorzi, Nicola (56257263600)"
+      },
+      {
+        "weight": 2,
+        "source": "Zorzi, Nicola (56257263600)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      },
+      {
+        "weight": 2,
+        "source": "Zorzi, Nicola (56257263600)",
+        "target": "Bellutti, Pierluigi L. (7003628332)"
+      },
+      {
+        "weight": 2,
+        "source": "Bellutti, Pierluigi L. (7003628332)",
+        "target": "Cirrincione, Daniela (57201132189)"
+      }
+    ]
+  },
+  "2024": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Snidaro, Lauro (6507499895)"
+      }
+    ],
+    "edges": []
+  },
+  "2025": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "id": "Ozkilinc, Ozge (58138235700)"
+      },
+      {
+        "id": "Soler, Miguel A. (8718855800)"
+      },
+      {
+        "id": "Fogolari, Federico (56233125800)"
+      }
+    ],
+    "edges": [
+      {
+        "weight": 2,
+        "source": "Ozkilinc, Ozge (58138235700)",
+        "target": "Soler, Miguel A. (8718855800)"
+      },
+      {
+        "weight": 2,
+        "source": "Ozkilinc, Ozge (58138235700)",
+        "target": "Fogolari, Federico (56233125800)"
+      },
+      {
+        "weight": 2,
+        "source": "Soler, Miguel A. (8718855800)",
+        "target": "Fogolari, Federico (56233125800)"
+      }
+    ]
+  }
+}
