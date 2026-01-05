@@ -4,913 +4,224 @@
   "graph": {},
   "nodes": [
     {
-      "type": "central",
-      "weight": 0,
-      "id": "Gigli Gian Luigi"
+      "id": "Università di Udine, Italy"
     },
     {
-      "type": "internal",
-      "weight": 13,
-      "id": "Neurological Clinic, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "id": "Università degli Studi di Padova, Italy"
     },
     {
-      "type": "internal",
-      "weight": 11,
-      "id": "Department of Mathematics, Università degli Studi di Udine, Udine, UD, Italy"
+      "id": "Universitat Politècnica de València, Spain"
     },
     {
-      "type": "internal",
-      "weight": 19,
-      "id": "Università degli Studi di Udine, Udine, UD, Italy"
+      "id": "Speeding Up Floyd–Warshall’s Algorithm\nto Compute All-Pairs Shortest\nPaths and the Transitive\nClosure of a Graph"
     },
     {
-      "type": "internal",
-      "weight": 2,
-      "id": "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "id": "The ‘obligatory passage point’\nin knowledge co-production: Italy’s\nparticipatory environmental monitoring platform"
     },
     {
-      "type": "internal",
-      "weight": 2,
-      "id": "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "id": "Algorithmic strategies for a\nfast exploration of the\nTSP 4 -OPT neighborhood"
     },
     {
-      "type": "internal",
-      "weight": 23,
-      "id": "Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+      "id": "On the Effect of\nUser Tracking on Perceived\nSource Positions in Mobile\nAudio Augmented Reality"
     },
     {
-      "type": "internal",
-      "weight": 2,
-      "id": "Department of Laboratory Medicine, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "id": "Safety enforcement via programmable\nstrategies in Maude"
     },
     {
-      "type": "internal",
-      "weight": 6,
-      "id": "Department of Neuroscience, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "id": "Symbolic Specialization of Rewriting\nLogic Theories with Presto"
     },
     {
-      "type": "internal",
-      "weight": 10,
-      "id": "Department of Mathematics and Physics, Università degli Studi di Udine, Udine, UD, Italy"
+      "id": "Variant-Based Equational Anti-unification"
     },
     {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Université Jean Monnet Saint Etienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+      "id": "A partial evaluation methodology\nfor optimizing rewrite theories\nincrementally"
     },
     {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+      "id": "Finding the best 3-opt\nmove in subcubic time"
     },
     {
-      "type": "foreign",
-      "weight": 4,
-      "id": "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France"
+      "id": "Efficient Safety Enforcement for\nMaude Programs via Program\nSpecialization in the ÁTAME\nSystem"
     },
     {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Biochemistry, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+      "id": "Symbolic Analysis of Maude\nTheories with Narval"
     },
     {
-      "type": "internal",
-      "weight": 3,
-      "id": "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "id": "Algorithmic Strategies for a\nFast Exploration of the\nTSP 4-OPT Neighborhood"
     },
     {
-      "type": "internal",
-      "weight": 2,
-      "id": "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "id": "Imposing assertions in Maude\nvia program transformation"
     },
     {
-      "type": "internal",
-      "weight": 6,
-      "id": "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "id": "ACUOS^ 2 : A\nHigh-Performance System for Modular\nACU Generalization with Subtyping\nand Inheritance"
     },
     {
-      "type": "internal",
-      "weight": 15,
-      "id": "Department of Neuroscience, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "id": "Speeding-up the Exploration of\nthe -OPT Neighborhood for\nthe TSP"
     },
     {
-      "type": "internal",
-      "weight": 6,
-      "id": "Neurology Unit, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+      "id": "New modeling ideas for\nthe exact solution of\nthe closest string problem"
     },
     {
-      "type": "foreign",
-      "weight": 3,
-      "id": "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Université de Montpellier, Montpellier, Occitanie, France"
-    },
-    {
-      "type": "foreign",
-      "weight": 2,
-      "id": "Department of Psychiatry, University of Montreal, Montreal, QC, Canada"
-    },
-    {
-      "type": "foreign",
-      "weight": 2,
-      "id": "Department of Sleep Medicine and Neuromuscular Disorders, University of Münster, Munster, Nordrhein-Westfalen, Germany"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada"
-    },
-    {
-      "type": "foreign",
-      "weight": 3,
-      "id": "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany"
-    },
-    {
-      "type": "italian",
-      "weight": 3,
-      "id": "Department of Neurological Sciences, Università Vita-Salute San Raffaele, Milan, MI, Italy"
-    },
-    {
-      "type": "foreign",
-      "weight": 3,
-      "id": "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada"
-    },
-    {
-      "type": "foreign",
-      "weight": 3,
-      "id": "University of Oxford Medical Sciences Division, Oxford, Oxfordshire, United Kingdom"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Neurology, Universitair Ziekenhuis Antwerpen, Edegem, VAN, Belgium"
-    },
-    {
-      "type": "italian",
-      "weight": 1,
-      "id": "Department of Biomedical, Università degli Studi di Modena e Reggio Emilia, Modena, MO, Italy"
-    },
-    {
-      "type": "foreign",
-      "weight": 3,
-      "id": "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada"
-    },
-    {
-      "type": "foreign",
-      "weight": 3,
-      "id": "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France"
-    },
-    {
-      "type": "foreign",
-      "weight": 2,
-      "id": "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France"
-    },
-    {
-      "type": "italian",
-      "weight": 3,
-      "id": "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy"
-    },
-    {
-      "type": "italian",
-      "weight": 1,
-      "id": "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France"
-    },
-    {
-      "type": "foreign",
-      "weight": 2,
-      "id": "Department of Neuroscience, University of Montreal, Montreal, QC, Canada"
-    },
-    {
-      "type": "internal",
-      "weight": 2,
-      "id": "Department of Diagnostic Imaging, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Clinical Neurology Unit, Azienda Sanitaria Universitaria, Udine, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 3,
-      "id": "Department of Medical Area (DAME), Università degli Studi di Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Human Genetics, Université McGill, Montreal, QC, Canada"
-    },
-    {
-      "type": "foreign",
-      "weight": 2,
-      "id": "Department of Neurology, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Université de Lille, Lille, Hauts-de-France, France"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic"
-    },
-    {
-      "type": "foreign",
-      "weight": 2,
-      "id": "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France"
-    },
-    {
-      "type": "italian",
-      "weight": 1,
-      "id": "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy"
-    },
-    {
-      "type": "italian",
-      "weight": 1,
-      "id": "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Neuroscience, Université du Québec à Montréal, Montreal, QC, Canada"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Psychiatry, Université du Québec à Montréal, Montreal, QC, Canada"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Institute of Pathology, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Institute of Hygiene and Clinical Epidemiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "italian",
-      "weight": 1,
-      "id": "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Neurology and Rehabilitation, University of Illinois at Chicago, Chicago, IL, United States"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Neurological Clinic, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Pediatric Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Université de Lyon, Lyon, Auvergne-Rhone-Alpes, France"
+      "id": "Inferring Safe Maude Programs\nwith ÁTAME"
     }
   ],
   "edges": [
     {
-      "weight": 13,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurological Clinic, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "source": "Università di Udine, Italy",
+      "target": "Università degli Studi di Padova, Italy"
     },
     {
-      "weight": 11,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Mathematics, Università degli Studi di Udine, Udine, UD, Italy"
+      "source": "Università di Udine, Italy",
+      "target": "Universitat Politècnica de València, Spain"
     },
     {
-      "weight": 19,
-      "source": "Gigli Gian Luigi",
-      "target": "Università degli Studi di Udine, Udine, UD, Italy"
+      "source": "Università degli Studi di Padova, Italy",
+      "target": "Speeding Up Floyd–Warshall’s Algorithm\nto Compute All-Pairs Shortest\nPaths and the Transitive\nClosure of a Graph"
     },
     {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "source": "Università degli Studi di Padova, Italy",
+      "target": "The ‘obligatory passage point’\nin knowledge co-production: Italy’s\nparticipatory environmental monitoring platform"
     },
     {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "source": "Università degli Studi di Padova, Italy",
+      "target": "Algorithmic strategies for a\nfast exploration of the\nTSP 4 -OPT neighborhood"
     },
     {
-      "weight": 23,
-      "source": "Gigli Gian Luigi",
-      "target": "Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+      "source": "Università degli Studi di Padova, Italy",
+      "target": "On the Effect of\nUser Tracking on Perceived\nSource Positions in Mobile\nAudio Augmented Reality"
     },
     {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Laboratory Medicine, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "source": "Università degli Studi di Padova, Italy",
+      "target": "Finding the best 3-opt\nmove in subcubic time"
     },
     {
-      "weight": 6,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neuroscience, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "source": "Università degli Studi di Padova, Italy",
+      "target": "Algorithmic Strategies for a\nFast Exploration of the\nTSP 4-OPT Neighborhood"
     },
     {
-      "weight": 10,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Mathematics and Physics, Università degli Studi di Udine, Udine, UD, Italy"
+      "source": "Università degli Studi di Padova, Italy",
+      "target": "Speeding-up the Exploration of\nthe -OPT Neighborhood for\nthe TSP"
     },
     {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Université Jean Monnet Saint Etienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+      "source": "Università degli Studi di Padova, Italy",
+      "target": "New modeling ideas for\nthe exact solution of\nthe closest string problem"
     },
     {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+      "source": "Universitat Politècnica de València, Spain",
+      "target": "Safety enforcement via programmable\nstrategies in Maude"
     },
     {
-      "weight": 4,
-      "source": "Gigli Gian Luigi",
-      "target": "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France"
+      "source": "Universitat Politècnica de València, Spain",
+      "target": "Symbolic Specialization of Rewriting\nLogic Theories with Presto"
     },
     {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Biochemistry, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+      "source": "Universitat Politècnica de València, Spain",
+      "target": "Variant-Based Equational Anti-unification"
     },
     {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "source": "Universitat Politècnica de València, Spain",
+      "target": "A partial evaluation methodology\nfor optimizing rewrite theories\nincrementally"
     },
     {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "source": "Universitat Politècnica de València, Spain",
+      "target": "Efficient Safety Enforcement for\nMaude Programs via Program\nSpecialization in the ÁTAME\nSystem"
     },
     {
-      "weight": 6,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "source": "Universitat Politècnica de València, Spain",
+      "target": "Symbolic Analysis of Maude\nTheories with Narval"
     },
     {
-      "weight": 15,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neuroscience, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "source": "Universitat Politècnica de València, Spain",
+      "target": "Imposing assertions in Maude\nvia program transformation"
     },
     {
-      "weight": 6,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurology Unit, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
+      "source": "Universitat Politècnica de València, Spain",
+      "target": "ACUOS^ 2 : A\nHigh-Performance System for Modular\nACU Generalization with Subtyping\nand Inheritance"
     },
     {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Université de Montpellier, Montpellier, Occitanie, France"
-    },
-    {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Psychiatry, University of Montreal, Montreal, QC, Canada"
-    },
-    {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Sleep Medicine and Neuromuscular Disorders, University of Münster, Munster, Nordrhein-Westfalen, Germany"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurological Sciences, Università Vita-Salute San Raffaele, Milan, MI, Italy"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "University of Oxford Medical Sciences Division, Oxford, Oxfordshire, United Kingdom"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology, Universitair Ziekenhuis Antwerpen, Edegem, VAN, Belgium"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Biomedical, Università degli Studi di Modena e Reggio Emilia, Modena, MO, Italy"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France"
-    },
-    {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France"
-    },
-    {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neuroscience, University of Montreal, Montreal, QC, Canada"
-    },
-    {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Diagnostic Imaging, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Clinical Neurology Unit, Azienda Sanitaria Universitaria, Udine, Italy"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Medical Area (DAME), Università degli Studi di Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Human Genetics, Université McGill, Montreal, QC, Canada"
-    },
-    {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Université de Lille, Lille, Hauts-de-France, France"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic"
-    },
-    {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neuroscience, Université du Québec à Montréal, Montreal, QC, Canada"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Psychiatry, Université du Québec à Montréal, Montreal, QC, Canada"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Institute of Pathology, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Institute of Hygiene and Clinical Epidemiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology and Rehabilitation, University of Illinois at Chicago, Chicago, IL, United States"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurological Clinic, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Pediatric Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Université de Lyon, Lyon, Auvergne-Rhone-Alpes, France"
+      "source": "Universitat Politècnica de València, Spain",
+      "target": "Inferring Safe Maude Programs\nwith ÁTAME"
     }
   ],
   "positions": {
-    "Gigli Gian Luigi": [
-      0.003291437381970745,
-      0.0009063587833768778
-    ],
-    "Neurological Clinic, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.07529748422221896,
-      0.0862469107009869
-    ],
-    "Department of Mathematics, Università degli Studi di Udine, Udine, UD, Italy": [
-      -0.16504380075546676,
-      -0.04003543502080888
-    ],
-    "Università degli Studi di Udine, Udine, UD, Italy": [
-      -0.0893476140228525,
-      0.04830619956488381
-    ],
-    "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.18525533192999827,
-      0.30670234518372
-    ],
-    "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.0781342948941102,
-      0.31711343656271257
-    ],
-    "Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
-      0.10057648704442272,
-      -0.040235383711662784
-    ],
-    "Department of Laboratory Medicine, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.5234798127640844,
-      -0.15503914752660664
-    ],
-    "Department of Neuroscience, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.3176118955475741,
-      -0.006397253251891697
-    ],
-    "Department of Mathematics and Physics, Università degli Studi di Udine, Udine, UD, Italy": [
-      0.03670520001745622,
-      -0.10666923735210614
-    ],
-    "Université Jean Monnet Saint Etienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
-      0.5973624817573441,
-      -0.39187812351471274
-    ],
-    "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
-      -0.750403131355338,
-      -0.27307570376541285
-    ],
-    "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France": [
-      0.030953501168757676,
-      0.19115691426819154
-    ],
-    "Department of Biochemistry, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
-      -0.8554627008213316,
-      0.22348161545214362
-    ],
-    "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.1257783685703861,
-      -0.23960116124866426
-    ],
-    "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      0.4873623878155704,
-      -0.20376016473958683
-    ],
-    "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      -0.2125625124823095,
-      0.10282514745436067
-    ],
-    "Department of Neuroscience, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      0.17724733725388273,
-      0.020856468197804345
-    ],
-    "Neurology Unit, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
-      -0.16954422178121364,
-      -0.12163778318079593
-    ],
-    "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria": [
-      0.27892262402075424,
-      -0.17809618657977402
-    ],
-    "Université de Montpellier, Montpellier, Occitanie, France": [
-      -0.9586348225579829,
-      0.048950940881171925
-    ],
-    "Department of Psychiatry, University of Montreal, Montreal, QC, Canada": [
-      -0.3972194843633812,
-      0.24950507346644793
-    ],
-    "Department of Sleep Medicine and Neuromuscular Disorders, University of Münster, Munster, Nordrhein-Westfalen, Germany": [
-      -0.5992412164764098,
-      0.08718068673425103
-    ],
-    "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada": [
-      0.08086684144025125,
-      0.4917476800299435
-    ],
-    "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany": [
-      -0.3136462799352308,
-      -0.18842452926395187
-    ],
-    "Department of Neurological Sciences, Università Vita-Salute San Raffaele, Milan, MI, Italy": [
-      0.4512427461760339,
-      0.012469631327088837
-    ],
-    "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada": [
-      0.24718559896739867,
-      0.19699355839891727
-    ],
-    "University of Oxford Medical Sciences Division, Oxford, Oxfordshire, United Kingdom": [
-      -0.1837264315415291,
-      0.21794739465291094
-    ],
-    "Department of Neurology, Universitair Ziekenhuis Antwerpen, Edegem, VAN, Belgium": [
-      -0.90390709400148,
-      -0.22321732644610237
-    ],
-    "Department of Biomedical, Università degli Studi di Modena e Reggio Emilia, Modena, MO, Italy": [
-      -0.9918429408645797,
-      -0.04370105993139731
-    ],
-    "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada": [
-      0.0654343126537312,
-      -0.23011151912957878
-    ],
-    "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France": [
-      0.40895469007205343,
-      -0.0921237577093282
-    ],
-    "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France": [
-      -0.601357941544164,
-      -0.03832394569954967
-    ],
-    "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy": [
-      -0.40848187161109345,
-      0.12547554620650325
-    ],
-    "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy": [
-      -0.30613709330640326,
-      0.4689238532298096
-    ],
-    "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": [
-      0.739901212950195,
-      -0.3263399877786096
-    ],
-    "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France": [
-      -0.6391788554717234,
-      0.37220270529419025
-    ],
-    "Department of Neuroscience, University of Montreal, Montreal, QC, Canada": [
-      0.4621315477862895,
-      0.22733678212789496
-    ],
-    "Department of Diagnostic Imaging, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.21584061521714368,
-      -0.29708865852310345
-    ],
-    "Clinical Neurology Unit, Azienda Sanitaria Universitaria, Udine, Italy": [
-      0.43459117850755924,
-      -0.440298996756397
-    ],
-    "Department of Medical Area (DAME), Università degli Studi di Udine, Udine, UD, Italy": [
-      0.3950795649609703,
-      0.11584555429463357
-    ],
-    "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.07255387176043011,
-      -0.5
-    ],
-    "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.3646029592533872,
-      -0.41077794007849533
-    ],
-    "Department of Human Genetics, Université McGill, Montreal, QC, Canada": [
-      0.7697757426846449,
-      0.31313752794945005
-    ],
-    "Department of Neurology, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": [
-      0.6283603025705937,
-      -0.06537104354207954
-    ],
-    "Université de Lille, Lille, Hauts-de-France, France": [
-      -0.48387102721436653,
-      0.4299823022875857
-    ],
-    "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France": [
-      0.9563187730540128,
-      0.13540275335615035
-    ],
-    "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic": [
-      0.9839351040980645,
-      -0.06138692357336662
-    ],
-    "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France": [
-      0.621307471457489,
-      0.08760211121175931
-    ],
-    "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy": [
-      -0.6876377285200678,
-      -0.3559036911333265
-    ],
-    "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy": [
-      -0.7772142961016059,
-      0.30670653616919236
-    ],
-    "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany": [
-      -0.08454376979017751,
-      -0.45351184592858673
-    ],
-    "Department of Neuroscience, Université du Québec à Montréal, Montreal, QC, Canada": [
-      0.9353064628475971,
-      -0.15783161379913577
-    ],
-    "Department of Psychiatry, Université du Québec à Montréal, Montreal, QC, Canada": [
-      -0.11574968002133447,
-      0.4934019825062003
-    ],
-    "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      -0.2619786871503247,
-      -0.4897686539249185
-    ],
-    "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.5422056452208379,
-      -0.41389754142276286
-    ],
-    "Institute of Pathology, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
-      0.8755438876144142,
-      0.22806854669305343
-    ],
-    "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy": [
-      0.27793489658345905,
-      0.47786880807470017
-    ],
-    "Institute of Hygiene and Clinical Epidemiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.8549892993049897,
-      -0.24710816461401716
-    ],
-    "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy": [
-      0.9857868894096661,
-      0.03771274539925432
-    ],
-    "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.46063341677257247,
-      0.4378522076342356
-    ],
-    "Department of Neurology and Rehabilitation, University of Illinois at Chicago, Chicago, IL, United States": [
-      0.25331299327144735,
-      -0.4674952886471138
-    ],
-    "Neurological Clinic, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
-      -0.9178273297552973,
-      -0.12790689423413062
-    ],
-    "Pediatric Unit, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      0.6275042146065671,
-      0.3844391233271178
-    ],
-    "Université de Lyon, Lyon, Auvergne-Rhone-Alpes, France": [
-      -0.9510923996839086,
-      0.14266551460733085
+    "Università di Udine, Italy": [
+      0.0,
+      0.0
+    ],
+    "Università degli Studi di Padova, Italy": [
+      -8.0,
+      0.0
+    ],
+    "Universitat Politècnica de València, Spain": [
+      8.0,
+      0.0
+    ],
+    "Speeding Up Floyd–Warshall’s Algorithm\nto Compute All-Pairs Shortest\nPaths and the Transitive\nClosure of a Graph": [
+      -4.766421636210497,
+      1.3393920132778143
+    ],
+    "The ‘obligatory passage point’\nin knowledge co-production: Italy’s\nparticipatory environmental monitoring platform": [
+      -6.6606079867221855,
+      3.2335783637895035
+    ],
+    "Algorithmic strategies for a\nfast exploration of the\nTSP 4 -OPT neighborhood": [
+      -9.339392013277815,
+      3.2335783637895035
+    ],
+    "On the Effect of\nUser Tracking on Perceived\nSource Positions in Mobile\nAudio Augmented Reality": [
+      -11.233578363789503,
+      1.3393920132778145
+    ],
+    "Finding the best 3-opt\nmove in subcubic time": [
+      -11.233578363789505,
+      -1.3393920132778139
+    ],
+    "Algorithmic Strategies for a\nFast Exploration of the\nTSP 4-OPT Neighborhood": [
+      -9.339392013277816,
+      -3.233578363789503
+    ],
+    "Speeding-up the Exploration of\nthe -OPT Neighborhood for\nthe TSP": [
+      -6.6606079867221855,
+      -3.233578363789503
+    ],
+    "New modeling ideas for\nthe exact solution of\nthe closest string problem": [
+      -4.766421636210497,
+      -1.3393920132778163
+    ],
+    "Safety enforcement via programmable\nstrategies in Maude": [
+      11.5,
+      0.0
+    ],
+    "Symbolic Specialization of Rewriting\nLogic Theories with Presto": [
+      10.681155550916422,
+      2.249756633902887
+    ],
+    "Variant-Based Equational Anti-unification": [
+      8.607768621834257,
+      3.446827135542728
+    ],
+    "A partial evaluation methodology\nfor optimizing rewrite theories\nincrementally": [
+      6.250000000000001,
+      3.0310889132455356
+    ],
+    "Efficient Safety Enforcement for\nMaude Programs via Program\nSpecialization in the ÁTAME\nSystem": [
+      4.711075827249321,
+      1.197070501639841
+    ],
+    "Symbolic Analysis of Maude\nTheories with Narval": [
+      4.711075827249321,
+      -1.1970705016398404
+    ],
+    "Imposing assertions in Maude\nvia program transformation": [
+      6.249999999999998,
+      -3.0310889132455348
+    ],
+    "ACUOS^ 2 : A\nHigh-Performance System for Modular\nACU Generalization with Subtyping\nand Inheritance": [
+      8.607768621834255,
+      -3.4468271355427285
+    ],
+    "Inferring Safe Maude Programs\nwith ÁTAME": [
+      10.681155550916422,
+      -2.2497566339028885
     ]
   },
   "categories": {
