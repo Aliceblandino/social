@@ -1,0 +1,128 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Urli, Federico (57857396200)"
+    },
+    {
+      "id": "Johnson, Chad (59388221500)"
+    },
+    {
+      "id": "Visentini, Ingrid (17436461200)"
+    },
+    {
+      "id": "Liani, Alessandro (57549486700)"
+    },
+    {
+      "id": "Mari, Marco (59388337700)"
+    },
+    {
+      "id": "Snidaro, Lauro (6507499895)"
+    },
+    {
+      "id": "Vallisa, Tiziano (59388320700)"
+    },
+    {
+      "id": "Somero, Michele (57858103000)"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "source": "Urli, Federico (57857396200)",
+      "target": "Somero, Michele (57858103000)"
+    },
+    {
+      "weight": 2,
+      "source": "Urli, Federico (57857396200)",
+      "target": "Snidaro, Lauro (6507499895)"
+    },
+    {
+      "weight": 1,
+      "source": "Urli, Federico (57857396200)",
+      "target": "Liani, Alessandro (57549486700)"
+    },
+    {
+      "weight": 1,
+      "source": "Urli, Federico (57857396200)",
+      "target": "Johnson, Chad (59388221500)"
+    },
+    {
+      "weight": 1,
+      "source": "Urli, Federico (57857396200)",
+      "target": "Vallisa, Tiziano (59388320700)"
+    },
+    {
+      "weight": 1,
+      "source": "Urli, Federico (57857396200)",
+      "target": "Visentini, Ingrid (17436461200)"
+    },
+    {
+      "weight": 1,
+      "source": "Johnson, Chad (59388221500)",
+      "target": "Somero, Michele (57858103000)"
+    },
+    {
+      "weight": 1,
+      "source": "Johnson, Chad (59388221500)",
+      "target": "Snidaro, Lauro (6507499895)"
+    },
+    {
+      "weight": 1,
+      "source": "Johnson, Chad (59388221500)",
+      "target": "Vallisa, Tiziano (59388320700)"
+    },
+    {
+      "weight": 1,
+      "source": "Johnson, Chad (59388221500)",
+      "target": "Visentini, Ingrid (17436461200)"
+    },
+    {
+      "weight": 1,
+      "source": "Visentini, Ingrid (17436461200)",
+      "target": "Somero, Michele (57858103000)"
+    },
+    {
+      "weight": 1,
+      "source": "Visentini, Ingrid (17436461200)",
+      "target": "Snidaro, Lauro (6507499895)"
+    },
+    {
+      "weight": 1,
+      "source": "Visentini, Ingrid (17436461200)",
+      "target": "Vallisa, Tiziano (59388320700)"
+    },
+    {
+      "weight": 1,
+      "source": "Liani, Alessandro (57549486700)",
+      "target": "Somero, Michele (57858103000)"
+    },
+    {
+      "weight": 1,
+      "source": "Liani, Alessandro (57549486700)",
+      "target": "Snidaro, Lauro (6507499895)"
+    },
+    {
+      "weight": 1,
+      "source": "Mari, Marco (59388337700)",
+      "target": "Snidaro, Lauro (6507499895)"
+    },
+    {
+      "weight": 2,
+      "source": "Snidaro, Lauro (6507499895)",
+      "target": "Somero, Michele (57858103000)"
+    },
+    {
+      "weight": 1,
+      "source": "Snidaro, Lauro (6507499895)",
+      "target": "Vallisa, Tiziano (59388320700)"
+    },
+    {
+      "weight": 1,
+      "source": "Vallisa, Tiziano (59388320700)",
+      "target": "Somero, Michele (57858103000)"
+    }
+  ]
+}

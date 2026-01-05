@@ -1,0 +1,6297 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Gigli, Gian Luigi (7101781977)"
+    },
+    {
+      "id": "Vogrig, Alberto (56515387200)"
+    },
+    {
+      "id": "Nilo, Annacarmen (57195285121)"
+    },
+    {
+      "id": "Fabris, Martina (6603673392)"
+    },
+    {
+      "id": "Biasotto, Alessia (57219242691)"
+    },
+    {
+      "id": "Curcio, Francesco (9249381700)"
+    },
+    {
+      "id": "Miotti, Valeria (24475386800)"
+    },
+    {
+      "id": "Tascini, Carlo (6701507404)"
+    },
+    {
+      "id": "Valente, Mariarosaria (7102004248)"
+    },
+    {
+      "id": "de Biase, Stefano (55362424400)"
+    },
+    {
+      "id": "Crespel, Arielle (6701342529)"
+    },
+    {
+      "id": "Genton, Pierre (35473863700)"
+    },
+    {
+      "id": "Macorig, Greta (57191581880)"
+    },
+    {
+      "id": "Gélisse, Philippe (7003547770)"
+    },
+    {
+      "id": "Merlino, Giovanni (16031420500)"
+    },
+    {
+      "id": "Lorenzut, Simone (35932185200)"
+    },
+    {
+      "id": "del Negro, Ilaria (57218600685)"
+    },
+    {
+      "id": "Tereshko, Yan (57218601392)"
+    },
+    {
+      "id": "Smeralda, Carmelo Luca (57202812628)"
+    },
+    {
+      "id": "Piani, Antonella (6602263826)"
+    },
+    {
+      "id": "Rudakou, Uladzislau (57191645459)"
+    },
+    {
+      "id": "Futhey, Naomi C. (57210634742)"
+    },
+    {
+      "id": "Krohn, Lynne (57220113194)"
+    },
+    {
+      "id": "Ruskey, Jennifer A. (57194775553)"
+    },
+    {
+      "id": "Heilbron, Karl (55892509000)"
+    },
+    {
+      "id": "Cannon, Paul (57214582742)"
+    },
+    {
+      "id": "Alam, Armaghan (57202238790)"
+    },
+    {
+      "id": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "id": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "id": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "id": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "id": "Désautels, Alex (59732370800)"
+    },
+    {
+      "id": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "id": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "id": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "id": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "id": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "id": "Šonka, Karel (7005798465)"
+    },
+    {
+      "id": "Kemlink, David (14030150800)"
+    },
+    {
+      "id": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "id": "Janzen, Annette (14037192500)"
+    },
+    {
+      "id": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "id": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "id": "Figorilli, M. (56179257000)"
+    },
+    {
+      "id": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "id": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "id": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "id": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "id": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "id": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "id": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "id": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "id": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "id": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "id": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "id": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "id": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "id": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "id": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "id": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "id": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "id": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "id": "Janes, Francesco (6506381696)"
+    },
+    {
+      "id": "Morassi, Mauro (57211502194)"
+    },
+    {
+      "id": "Bagatto, Daniele (36571314500)"
+    },
+    {
+      "id": "Cobelli, Milena (6506983737)"
+    },
+    {
+      "id": "D'Agostini, Serena (6507581246)"
+    },
+    {
+      "id": "Bnà, Claudio (6602791502)"
+    },
+    {
+      "id": "Sponza, Massimo (6603401749)"
+    },
+    {
+      "id": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "id": "Surcinelli, Andrea (57212593020)"
+    },
+    {
+      "id": "Pez, Sara (57218582028)"
+    },
+    {
+      "id": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "id": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "id": "Pessa, Maria Elena (57189700485)"
+    },
+    {
+      "id": "Volpetti, Stefano (36055247600)"
+    },
+    {
+      "id": "Pegolo, Enrico (24069136800)"
+    },
+    {
+      "id": "Pauletto, Giada (6602640764)"
+    },
+    {
+      "id": "Bax, Francesco (57210434886)"
+    },
+    {
+      "id": "Verriello, Lorenzo (6506798519)"
+    },
+    {
+      "id": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "id": "Pellitteri, Gaia (57210581217)"
+    },
+    {
+      "id": "Dolso, Pierluigi G. (6602678034)"
+    },
+    {
+      "id": "Segatti, Samantha (57210828794)"
+    },
+    {
+      "id": "Bernardini, Andrea (56215401100)"
+    },
+    {
+      "id": "Valent, Francesca (6701724324)"
+    },
+    {
+      "id": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "id": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "id": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "id": "Rana, Michele (57211440266)"
+    },
+    {
+      "id": "Honnorat, Jérǒme (7007170503)"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 4,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Vogrig, Alberto (56515387200)"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Nilo, Annacarmen (57195285121)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Fabris, Martina (6603673392)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Biasotto, Alessia (57219242691)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Curcio, Francesco (9249381700)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Miotti, Valeria (24475386800)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Tascini, Carlo (6701507404)"
+    },
+    {
+      "weight": 12,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Valente, Mariarosaria (7102004248)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "de Biase, Stefano (55362424400)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Crespel, Arielle (6701342529)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Genton, Pierre (35473863700)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Macorig, Greta (57191581880)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Gélisse, Philippe (7003547770)"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Merlino, Giovanni (16031420500)"
+    },
+    {
+      "weight": 4,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Lorenzut, Simone (35932185200)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "del Negro, Ilaria (57218600685)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Tereshko, Yan (57218601392)"
+    },
+    {
+      "weight": 4,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Smeralda, Carmelo Luca (57202812628)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Piani, Antonella (6602263826)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Rudakou, Uladzislau (57191645459)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Futhey, Naomi C. (57210634742)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Krohn, Lynne (57220113194)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Ruskey, Jennifer A. (57194775553)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Heilbron, Karl (55892509000)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Cannon, Paul (57214582742)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Alam, Armaghan (57202238790)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Janes, Francesco (6506381696)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Morassi, Mauro (57211502194)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Bagatto, Daniele (36571314500)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Cobelli, Milena (6506983737)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "D'Agostini, Serena (6507581246)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Bnà, Claudio (6602791502)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Sponza, Massimo (6603401749)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Surcinelli, Andrea (57212593020)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Pez, Sara (57218582028)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Pessa, Maria Elena (57189700485)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Volpetti, Stefano (36055247600)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Pegolo, Enrico (24069136800)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Pauletto, Giada (6602640764)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Bax, Francesco (57210434886)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Verriello, Lorenzo (6506798519)"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Pellitteri, Gaia (57210581217)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Dolso, Pierluigi G. (6602678034)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Segatti, Samantha (57210828794)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Bernardini, Andrea (56215401100)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Valent, Francesca (6701724324)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli, Gian Luigi (7101781977)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 2,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Nilo, Annacarmen (57195285121)"
+    },
+    {
+      "weight": 2,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Fabris, Martina (6603673392)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Biasotto, Alessia (57219242691)"
+    },
+    {
+      "weight": 2,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Curcio, Francesco (9249381700)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Miotti, Valeria (24475386800)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Tascini, Carlo (6701507404)"
+    },
+    {
+      "weight": 3,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Valente, Mariarosaria (7102004248)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Morassi, Mauro (57211502194)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Bagatto, Daniele (36571314500)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Cobelli, Milena (6506983737)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "D'Agostini, Serena (6507581246)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Bnà, Claudio (6602791502)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Pessa, Maria Elena (57189700485)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Volpetti, Stefano (36055247600)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Pegolo, Enrico (24069136800)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Segatti, Samantha (57210828794)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Bernardini, Andrea (56215401100)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Valent, Francesca (6701724324)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Vogrig, Alberto (56515387200)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Fabris, Martina (6603673392)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Biasotto, Alessia (57219242691)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Curcio, Francesco (9249381700)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Miotti, Valeria (24475386800)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Tascini, Carlo (6701507404)"
+    },
+    {
+      "weight": 2,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Valente, Mariarosaria (7102004248)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Crespel, Arielle (6701342529)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Genton, Pierre (35473863700)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Macorig, Greta (57191581880)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Gélisse, Philippe (7003547770)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Pessa, Maria Elena (57189700485)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Volpetti, Stefano (36055247600)"
+    },
+    {
+      "weight": 1,
+      "source": "Nilo, Annacarmen (57195285121)",
+      "target": "Pegolo, Enrico (24069136800)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Biasotto, Alessia (57219242691)"
+    },
+    {
+      "weight": 2,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Curcio, Francesco (9249381700)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Miotti, Valeria (24475386800)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Tascini, Carlo (6701507404)"
+    },
+    {
+      "weight": 2,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Valente, Mariarosaria (7102004248)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Segatti, Samantha (57210828794)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Bernardini, Andrea (56215401100)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Valent, Francesca (6701724324)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Fabris, Martina (6603673392)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Biasotto, Alessia (57219242691)",
+      "target": "Curcio, Francesco (9249381700)"
+    },
+    {
+      "weight": 1,
+      "source": "Biasotto, Alessia (57219242691)",
+      "target": "Miotti, Valeria (24475386800)"
+    },
+    {
+      "weight": 1,
+      "source": "Biasotto, Alessia (57219242691)",
+      "target": "Tascini, Carlo (6701507404)"
+    },
+    {
+      "weight": 1,
+      "source": "Biasotto, Alessia (57219242691)",
+      "target": "Valente, Mariarosaria (7102004248)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Miotti, Valeria (24475386800)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Tascini, Carlo (6701507404)"
+    },
+    {
+      "weight": 2,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Valente, Mariarosaria (7102004248)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Segatti, Samantha (57210828794)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Bernardini, Andrea (56215401100)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Valent, Francesca (6701724324)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Curcio, Francesco (9249381700)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Miotti, Valeria (24475386800)",
+      "target": "Tascini, Carlo (6701507404)"
+    },
+    {
+      "weight": 1,
+      "source": "Miotti, Valeria (24475386800)",
+      "target": "Valente, Mariarosaria (7102004248)"
+    },
+    {
+      "weight": 1,
+      "source": "Tascini, Carlo (6701507404)",
+      "target": "Valente, Mariarosaria (7102004248)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "de Biase, Stefano (55362424400)"
+    },
+    {
+      "weight": 3,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Merlino, Giovanni (16031420500)"
+    },
+    {
+      "weight": 4,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Lorenzut, Simone (35932185200)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "del Negro, Ilaria (57218600685)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Tereshko, Yan (57218601392)"
+    },
+    {
+      "weight": 4,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Smeralda, Carmelo Luca (57202812628)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Piani, Antonella (6602263826)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Rudakou, Uladzislau (57191645459)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Futhey, Naomi C. (57210634742)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Krohn, Lynne (57220113194)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Ruskey, Jennifer A. (57194775553)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Heilbron, Karl (55892509000)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Cannon, Paul (57214582742)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Alam, Armaghan (57202238790)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Janes, Francesco (6506381696)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Sponza, Massimo (6603401749)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Surcinelli, Andrea (57212593020)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Pez, Sara (57218582028)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Pessa, Maria Elena (57189700485)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Volpetti, Stefano (36055247600)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Pegolo, Enrico (24069136800)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Pauletto, Giada (6602640764)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Bax, Francesco (57210434886)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Verriello, Lorenzo (6506798519)"
+    },
+    {
+      "weight": 2,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Pellitteri, Gaia (57210581217)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Dolso, Pierluigi G. (6602678034)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Segatti, Samantha (57210828794)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Bernardini, Andrea (56215401100)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Valent, Francesca (6701724324)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Valente, Mariarosaria (7102004248)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Crespel, Arielle (6701342529)",
+      "target": "Genton, Pierre (35473863700)"
+    },
+    {
+      "weight": 1,
+      "source": "Crespel, Arielle (6701342529)",
+      "target": "Macorig, Greta (57191581880)"
+    },
+    {
+      "weight": 1,
+      "source": "Crespel, Arielle (6701342529)",
+      "target": "Gélisse, Philippe (7003547770)"
+    },
+    {
+      "weight": 1,
+      "source": "Genton, Pierre (35473863700)",
+      "target": "Macorig, Greta (57191581880)"
+    },
+    {
+      "weight": 1,
+      "source": "Genton, Pierre (35473863700)",
+      "target": "Gélisse, Philippe (7003547770)"
+    },
+    {
+      "weight": 1,
+      "source": "Macorig, Greta (57191581880)",
+      "target": "Gélisse, Philippe (7003547770)"
+    },
+    {
+      "weight": 3,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Lorenzut, Simone (35932185200)"
+    },
+    {
+      "weight": 1,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "del Negro, Ilaria (57218600685)"
+    },
+    {
+      "weight": 1,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Tereshko, Yan (57218601392)"
+    },
+    {
+      "weight": 3,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Smeralda, Carmelo Luca (57202812628)"
+    },
+    {
+      "weight": 1,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Piani, Antonella (6602263826)"
+    },
+    {
+      "weight": 1,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Sponza, Massimo (6603401749)"
+    },
+    {
+      "weight": 1,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "weight": 2,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Surcinelli, Andrea (57212593020)"
+    },
+    {
+      "weight": 1,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Pez, Sara (57218582028)"
+    },
+    {
+      "weight": 1,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "weight": 1,
+      "source": "Merlino, Giovanni (16031420500)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "del Negro, Ilaria (57218600685)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Tereshko, Yan (57218601392)"
+    },
+    {
+      "weight": 3,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Smeralda, Carmelo Luca (57202812628)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Piani, Antonella (6602263826)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Sponza, Massimo (6603401749)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "weight": 2,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Surcinelli, Andrea (57212593020)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Pez, Sara (57218582028)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Pauletto, Giada (6602640764)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Bax, Francesco (57210434886)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Verriello, Lorenzo (6506798519)"
+    },
+    {
+      "weight": 1,
+      "source": "Lorenzut, Simone (35932185200)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "del Negro, Ilaria (57218600685)",
+      "target": "Tereshko, Yan (57218601392)"
+    },
+    {
+      "weight": 1,
+      "source": "del Negro, Ilaria (57218600685)",
+      "target": "Smeralda, Carmelo Luca (57202812628)"
+    },
+    {
+      "weight": 1,
+      "source": "del Negro, Ilaria (57218600685)",
+      "target": "Piani, Antonella (6602263826)"
+    },
+    {
+      "weight": 1,
+      "source": "Tereshko, Yan (57218601392)",
+      "target": "Smeralda, Carmelo Luca (57202812628)"
+    },
+    {
+      "weight": 1,
+      "source": "Tereshko, Yan (57218601392)",
+      "target": "Piani, Antonella (6602263826)"
+    },
+    {
+      "weight": 1,
+      "source": "Smeralda, Carmelo Luca (57202812628)",
+      "target": "Piani, Antonella (6602263826)"
+    },
+    {
+      "weight": 1,
+      "source": "Smeralda, Carmelo Luca (57202812628)",
+      "target": "Janes, Francesco (6506381696)"
+    },
+    {
+      "weight": 1,
+      "source": "Smeralda, Carmelo Luca (57202812628)",
+      "target": "Sponza, Massimo (6603401749)"
+    },
+    {
+      "weight": 1,
+      "source": "Smeralda, Carmelo Luca (57202812628)",
+      "target": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "weight": 2,
+      "source": "Smeralda, Carmelo Luca (57202812628)",
+      "target": "Surcinelli, Andrea (57212593020)"
+    },
+    {
+      "weight": 1,
+      "source": "Smeralda, Carmelo Luca (57202812628)",
+      "target": "Pez, Sara (57218582028)"
+    },
+    {
+      "weight": 1,
+      "source": "Smeralda, Carmelo Luca (57202812628)",
+      "target": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "weight": 1,
+      "source": "Smeralda, Carmelo Luca (57202812628)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Futhey, Naomi C. (57210634742)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Krohn, Lynne (57220113194)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Ruskey, Jennifer A. (57194775553)"
+    },
+    {
+      "weight": 1,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Heilbron, Karl (55892509000)"
+    },
+    {
+      "weight": 1,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Cannon, Paul (57214582742)"
+    },
+    {
+      "weight": 1,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Alam, Armaghan (57202238790)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Rudakou, Uladzislau (57191645459)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Krohn, Lynne (57220113194)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Ruskey, Jennifer A. (57194775553)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Heilbron, Karl (55892509000)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Cannon, Paul (57214582742)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Alam, Armaghan (57202238790)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 1,
+      "source": "Futhey, Naomi C. (57210634742)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Ruskey, Jennifer A. (57194775553)"
+    },
+    {
+      "weight": 1,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Heilbron, Karl (55892509000)"
+    },
+    {
+      "weight": 1,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Cannon, Paul (57214582742)"
+    },
+    {
+      "weight": 1,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Alam, Armaghan (57202238790)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Krohn, Lynne (57220113194)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Heilbron, Karl (55892509000)"
+    },
+    {
+      "weight": 1,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Cannon, Paul (57214582742)"
+    },
+    {
+      "weight": 1,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Alam, Armaghan (57202238790)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Ruskey, Jennifer A. (57194775553)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Cannon, Paul (57214582742)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Alam, Armaghan (57202238790)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 1,
+      "source": "Heilbron, Karl (55892509000)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Alam, Armaghan (57202238790)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 1,
+      "source": "Cannon, Paul (57214582742)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Arnulf, Isabelle (55968538200)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 1,
+      "source": "Alam, Armaghan (57202238790)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Hu, Michele T. (57189494530)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Arnulf, Isabelle (55968538200)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Montplaisir, Jacques Yves (7103032882)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Hu, Michele T. (57189494530)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Gagnon, Jean-François Franc¸ois (7202007172)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Montplaisir, Jacques Yves (7103032882)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Désautels, Alex (59732370800)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Gagnon, Jean-François Franc¸ois (7202007172)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Dauvilliers, Yves A. (7003647751)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Désautels, Alex (59732370800)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Toffoli, Marco (57193903799)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Dauvilliers, Yves A. (7003647751)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Högl, Birgit E. (57024774200)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Toffoli, Marco (57193903799)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Stefani, Ambra (56383497100)"
+    },
+    {
+      "weight": 1,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Högl, Birgit E. (57024774200)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Holzknecht, Evi (57200319883)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Stefani, Ambra (56383497100)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Šonka, Karel (7005798465)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 1,
+      "source": "Holzknecht, Evi (57200319883)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Kemlink, David (14030150800)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Šonka, Karel (7005798465)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Öertel, Wolfgang Hermann (57198197973)"
+    },
+    {
+      "weight": 1,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Kemlink, David (14030150800)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Janzen, Annette (14037192500)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Öertel, Wolfgang Hermann (57198197973)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Plazzi, Giuseppe (7005146467)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 1,
+      "source": "Janzen, Annette (14037192500)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Antelmi, Elena (25638550600)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Plazzi, Giuseppe (7005146467)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Figorilli, M. (56179257000)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Antelmi, Elena (25638550600)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Puligheddu, Monica Maria Francesca (6602663838)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Figorilli, M. (56179257000)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Mollenhauer, Brit (12243453800)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Puligheddu, Monica Maria Francesca (6602663838)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Trenkwalder, Claudia M. (7005583213)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Mollenhauer, Brit (12243453800)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Sixel-Döring, Friederike (14064023000)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Trenkwalder, Claudia M. (7005583213)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Cochen-de Cock, Valérie (15044100100)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Sixel-Döring, Friederike (14064023000)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Charley-Monaca, Christelle (6603305185)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Cochen-de Cock, Valérie (15044100100)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Heidbreder, A. E. (16042294500)"
+    },
+    {
+      "weight": 2,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Charley-Monaca, Christelle (6603305185)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Ferini‑Strambi, Luigi F. (7006625831)"
+    },
+    {
+      "weight": 2,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Heidbreder, A. E. (16042294500)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Dijkstra, Femke (57203305949)"
+    },
+    {
+      "weight": 2,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Ferini‑Strambi, Luigi F. (7006625831)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Dijkstra, Femke (57203305949)",
+      "target": "Viaene, Mineke Kristina (55407363800)"
+    },
+    {
+      "weight": 2,
+      "source": "Dijkstra, Femke (57203305949)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Dijkstra, Femke (57203305949)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Dijkstra, Femke (57203305949)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Dijkstra, Femke (57203305949)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Dijkstra, Femke (57203305949)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Dijkstra, Femke (57203305949)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Dijkstra, Femke (57203305949)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Dijkstra, Femke (57203305949)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Viaene, Mineke Kristina (55407363800)",
+      "target": "Abril, Beatriz (23033187000)"
+    },
+    {
+      "weight": 2,
+      "source": "Viaene, Mineke Kristina (55407363800)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Viaene, Mineke Kristina (55407363800)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Viaene, Mineke Kristina (55407363800)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Viaene, Mineke Kristina (55407363800)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Viaene, Mineke Kristina (55407363800)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Viaene, Mineke Kristina (55407363800)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Viaene, Mineke Kristina (55407363800)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Abril, Beatriz (23033187000)",
+      "target": "Boeve, Bradley Bradley (7005234927)"
+    },
+    {
+      "weight": 2,
+      "source": "Abril, Beatriz (23033187000)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Abril, Beatriz (23033187000)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Abril, Beatriz (23033187000)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Abril, Beatriz (23033187000)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Abril, Beatriz (23033187000)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Abril, Beatriz (23033187000)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Boeve, Bradley Bradley (7005234927)",
+      "target": "Postuma, Ronald B. (6603783746)"
+    },
+    {
+      "weight": 2,
+      "source": "Boeve, Bradley Bradley (7005234927)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Boeve, Bradley Bradley (7005234927)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Boeve, Bradley Bradley (7005234927)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Boeve, Bradley Bradley (7005234927)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Boeve, Bradley Bradley (7005234927)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Postuma, Ronald B. (6603783746)",
+      "target": "Rouleau, Guy Armand (57192120844)"
+    },
+    {
+      "weight": 2,
+      "source": "Postuma, Ronald B. (6603783746)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Postuma, Ronald B. (6603783746)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Postuma, Ronald B. (6603783746)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Postuma, Ronald B. (6603783746)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 2,
+      "source": "Rouleau, Guy Armand (57192120844)",
+      "target": "Gan-Or, Ziv (24437422000)"
+    },
+    {
+      "weight": 1,
+      "source": "Rouleau, Guy Armand (57192120844)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Rouleau, Guy Armand (57192120844)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Rouleau, Guy Armand (57192120844)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Gan-Or, Ziv (24437422000)",
+      "target": "Leveille, Etienne (57200552368)"
+    },
+    {
+      "weight": 1,
+      "source": "Gan-Or, Ziv (24437422000)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Gan-Or, Ziv (24437422000)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Leveille, Etienne (57200552368)",
+      "target": "Asayesh, Farnaz (57216631693)"
+    },
+    {
+      "weight": 1,
+      "source": "Leveille, Etienne (57200552368)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Asayesh, Farnaz (57216631693)",
+      "target": "Espay, Alberto J. (6507630454)"
+    },
+    {
+      "weight": 1,
+      "source": "Morassi, Mauro (57211502194)",
+      "target": "Bagatto, Daniele (36571314500)"
+    },
+    {
+      "weight": 1,
+      "source": "Morassi, Mauro (57211502194)",
+      "target": "Cobelli, Milena (6506983737)"
+    },
+    {
+      "weight": 1,
+      "source": "Morassi, Mauro (57211502194)",
+      "target": "D'Agostini, Serena (6507581246)"
+    },
+    {
+      "weight": 1,
+      "source": "Morassi, Mauro (57211502194)",
+      "target": "Bnà, Claudio (6602791502)"
+    },
+    {
+      "weight": 1,
+      "source": "Bagatto, Daniele (36571314500)",
+      "target": "Cobelli, Milena (6506983737)"
+    },
+    {
+      "weight": 1,
+      "source": "Bagatto, Daniele (36571314500)",
+      "target": "D'Agostini, Serena (6507581246)"
+    },
+    {
+      "weight": 1,
+      "source": "Bagatto, Daniele (36571314500)",
+      "target": "Bnà, Claudio (6602791502)"
+    },
+    {
+      "weight": 1,
+      "source": "Cobelli, Milena (6506983737)",
+      "target": "D'Agostini, Serena (6507581246)"
+    },
+    {
+      "weight": 1,
+      "source": "Cobelli, Milena (6506983737)",
+      "target": "Bnà, Claudio (6602791502)"
+    },
+    {
+      "weight": 1,
+      "source": "D'Agostini, Serena (6507581246)",
+      "target": "Bnà, Claudio (6602791502)"
+    },
+    {
+      "weight": 1,
+      "source": "Sponza, Massimo (6603401749)",
+      "target": "Marini, Alessandro (57206858600)"
+    },
+    {
+      "weight": 1,
+      "source": "Sponza, Massimo (6603401749)",
+      "target": "Surcinelli, Andrea (57212593020)"
+    },
+    {
+      "weight": 1,
+      "source": "Sponza, Massimo (6603401749)",
+      "target": "Pez, Sara (57218582028)"
+    },
+    {
+      "weight": 1,
+      "source": "Sponza, Massimo (6603401749)",
+      "target": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "weight": 1,
+      "source": "Sponza, Massimo (6603401749)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Surcinelli, Andrea (57212593020)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Pez, Sara (57218582028)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Segatti, Samantha (57210828794)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Bernardini, Andrea (56215401100)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Valent, Francesca (6701724324)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Marini, Alessandro (57206858600)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Surcinelli, Andrea (57212593020)",
+      "target": "Pez, Sara (57218582028)"
+    },
+    {
+      "weight": 1,
+      "source": "Surcinelli, Andrea (57212593020)",
+      "target": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "weight": 1,
+      "source": "Surcinelli, Andrea (57212593020)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Pez, Sara (57218582028)",
+      "target": "Vit, Alessandro (6602566794)"
+    },
+    {
+      "weight": 1,
+      "source": "Pez, Sara (57218582028)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Vit, Alessandro (6602566794)",
+      "target": "Gavrilovic, Vladimir (36136715800)"
+    },
+    {
+      "weight": 1,
+      "source": "Pessa, Maria Elena (57189700485)",
+      "target": "Volpetti, Stefano (36055247600)"
+    },
+    {
+      "weight": 1,
+      "source": "Pessa, Maria Elena (57189700485)",
+      "target": "Pegolo, Enrico (24069136800)"
+    },
+    {
+      "weight": 1,
+      "source": "Volpetti, Stefano (36055247600)",
+      "target": "Pegolo, Enrico (24069136800)"
+    },
+    {
+      "weight": 1,
+      "source": "Pauletto, Giada (6602640764)",
+      "target": "Bax, Francesco (57210434886)"
+    },
+    {
+      "weight": 1,
+      "source": "Pauletto, Giada (6602640764)",
+      "target": "Verriello, Lorenzo (6506798519)"
+    },
+    {
+      "weight": 1,
+      "source": "Pauletto, Giada (6602640764)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "Bax, Francesco (57210434886)",
+      "target": "Verriello, Lorenzo (6506798519)"
+    },
+    {
+      "weight": 1,
+      "source": "Bax, Francesco (57210434886)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "Verriello, Lorenzo (6506798519)",
+      "target": "Corazza, Elisa (57208495081)"
+    },
+    {
+      "weight": 1,
+      "source": "Corazza, Elisa (57208495081)",
+      "target": "Segatti, Samantha (57210828794)"
+    },
+    {
+      "weight": 1,
+      "source": "Corazza, Elisa (57208495081)",
+      "target": "Bernardini, Andrea (56215401100)"
+    },
+    {
+      "weight": 1,
+      "source": "Corazza, Elisa (57208495081)",
+      "target": "Valent, Francesca (6701724324)"
+    },
+    {
+      "weight": 1,
+      "source": "Corazza, Elisa (57208495081)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Corazza, Elisa (57208495081)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Corazza, Elisa (57208495081)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Corazza, Elisa (57208495081)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Corazza, Elisa (57208495081)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Pellitteri, Gaia (57210581217)",
+      "target": "Dolso, Pierluigi G. (6602678034)"
+    },
+    {
+      "weight": 1,
+      "source": "Segatti, Samantha (57210828794)",
+      "target": "Bernardini, Andrea (56215401100)"
+    },
+    {
+      "weight": 1,
+      "source": "Segatti, Samantha (57210828794)",
+      "target": "Valent, Francesca (6701724324)"
+    },
+    {
+      "weight": 1,
+      "source": "Segatti, Samantha (57210828794)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Segatti, Samantha (57210828794)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Segatti, Samantha (57210828794)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Segatti, Samantha (57210828794)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Segatti, Samantha (57210828794)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Bernardini, Andrea (56215401100)",
+      "target": "Valent, Francesca (6701724324)"
+    },
+    {
+      "weight": 1,
+      "source": "Bernardini, Andrea (56215401100)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Bernardini, Andrea (56215401100)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Bernardini, Andrea (56215401100)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Bernardini, Andrea (56215401100)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Bernardini, Andrea (56215401100)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Valent, Francesca (6701724324)",
+      "target": "Brigo, Francesco (57222641257)"
+    },
+    {
+      "weight": 1,
+      "source": "Valent, Francesca (6701724324)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Valent, Francesca (6701724324)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Valent, Francesca (6701724324)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Valent, Francesca (6701724324)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Brigo, Francesco (57222641257)",
+      "target": "Iacono, Donatella D. (56009427500)"
+    },
+    {
+      "weight": 1,
+      "source": "Brigo, Francesco (57222641257)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Brigo, Francesco (57222641257)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Brigo, Francesco (57222641257)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Iacono, Donatella D. (56009427500)",
+      "target": "Passadore, Paolo (57194972606)"
+    },
+    {
+      "weight": 1,
+      "source": "Iacono, Donatella D. (56009427500)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Iacono, Donatella D. (56009427500)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Passadore, Paolo (57194972606)",
+      "target": "Rana, Michele (57211440266)"
+    },
+    {
+      "weight": 1,
+      "source": "Passadore, Paolo (57194972606)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    },
+    {
+      "weight": 1,
+      "source": "Rana, Michele (57211440266)",
+      "target": "Honnorat, Jérǒme (7007170503)"
+    }
+  ]
+}

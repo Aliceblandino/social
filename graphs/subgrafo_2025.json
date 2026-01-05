@@ -1,0 +1,176 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Yakout, Rayyan Bassem Adel (59506327000)"
+    },
+    {
+      "id": "Giannozzi, Paolo (7004488307)"
+    },
+    {
+      "id": "Klein, Christian T. (57217490443)"
+    },
+    {
+      "id": "Rocchia, Walter (6603344433)"
+    },
+    {
+      "id": "Ozkilinc, Ozge (58138235700)"
+    },
+    {
+      "id": "Aparicio, Santiago (57204664762)"
+    },
+    {
+      "id": "Fogolari, Federico (56233125800)"
+    },
+    {
+      "id": "Esposito, Gennaro (7202317328)"
+    },
+    {
+      "id": "Soler, Miguel A. (8718855800)"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Yakout, Rayyan Bassem Adel (59506327000)",
+      "target": "Soler, Miguel A. (8718855800)"
+    },
+    {
+      "weight": 1,
+      "source": "Yakout, Rayyan Bassem Adel (59506327000)",
+      "target": "Ozkilinc, Ozge (58138235700)"
+    },
+    {
+      "weight": 1,
+      "source": "Yakout, Rayyan Bassem Adel (59506327000)",
+      "target": "Esposito, Gennaro (7202317328)"
+    },
+    {
+      "weight": 1,
+      "source": "Yakout, Rayyan Bassem Adel (59506327000)",
+      "target": "Rocchia, Walter (6603344433)"
+    },
+    {
+      "weight": 1,
+      "source": "Yakout, Rayyan Bassem Adel (59506327000)",
+      "target": "Klein, Christian T. (57217490443)"
+    },
+    {
+      "weight": 1,
+      "source": "Yakout, Rayyan Bassem Adel (59506327000)",
+      "target": "Fogolari, Federico (56233125800)"
+    },
+    {
+      "weight": 1,
+      "source": "Giannozzi, Paolo (7004488307)",
+      "target": "Ozkilinc, Ozge (58138235700)"
+    },
+    {
+      "weight": 1,
+      "source": "Giannozzi, Paolo (7004488307)",
+      "target": "Soler, Miguel A. (8718855800)"
+    },
+    {
+      "weight": 1,
+      "source": "Giannozzi, Paolo (7004488307)",
+      "target": "Aparicio, Santiago (57204664762)"
+    },
+    {
+      "weight": 1,
+      "source": "Giannozzi, Paolo (7004488307)",
+      "target": "Fogolari, Federico (56233125800)"
+    },
+    {
+      "weight": 1,
+      "source": "Klein, Christian T. (57217490443)",
+      "target": "Soler, Miguel A. (8718855800)"
+    },
+    {
+      "weight": 1,
+      "source": "Klein, Christian T. (57217490443)",
+      "target": "Ozkilinc, Ozge (58138235700)"
+    },
+    {
+      "weight": 1,
+      "source": "Klein, Christian T. (57217490443)",
+      "target": "Esposito, Gennaro (7202317328)"
+    },
+    {
+      "weight": 1,
+      "source": "Klein, Christian T. (57217490443)",
+      "target": "Rocchia, Walter (6603344433)"
+    },
+    {
+      "weight": 1,
+      "source": "Klein, Christian T. (57217490443)",
+      "target": "Fogolari, Federico (56233125800)"
+    },
+    {
+      "weight": 1,
+      "source": "Rocchia, Walter (6603344433)",
+      "target": "Soler, Miguel A. (8718855800)"
+    },
+    {
+      "weight": 1,
+      "source": "Rocchia, Walter (6603344433)",
+      "target": "Ozkilinc, Ozge (58138235700)"
+    },
+    {
+      "weight": 1,
+      "source": "Rocchia, Walter (6603344433)",
+      "target": "Esposito, Gennaro (7202317328)"
+    },
+    {
+      "weight": 1,
+      "source": "Rocchia, Walter (6603344433)",
+      "target": "Fogolari, Federico (56233125800)"
+    },
+    {
+      "weight": 2,
+      "source": "Ozkilinc, Ozge (58138235700)",
+      "target": "Soler, Miguel A. (8718855800)"
+    },
+    {
+      "weight": 1,
+      "source": "Ozkilinc, Ozge (58138235700)",
+      "target": "Aparicio, Santiago (57204664762)"
+    },
+    {
+      "weight": 2,
+      "source": "Ozkilinc, Ozge (58138235700)",
+      "target": "Fogolari, Federico (56233125800)"
+    },
+    {
+      "weight": 1,
+      "source": "Ozkilinc, Ozge (58138235700)",
+      "target": "Esposito, Gennaro (7202317328)"
+    },
+    {
+      "weight": 1,
+      "source": "Aparicio, Santiago (57204664762)",
+      "target": "Soler, Miguel A. (8718855800)"
+    },
+    {
+      "weight": 1,
+      "source": "Aparicio, Santiago (57204664762)",
+      "target": "Fogolari, Federico (56233125800)"
+    },
+    {
+      "weight": 2,
+      "source": "Fogolari, Federico (56233125800)",
+      "target": "Soler, Miguel A. (8718855800)"
+    },
+    {
+      "weight": 1,
+      "source": "Fogolari, Federico (56233125800)",
+      "target": "Esposito, Gennaro (7202317328)"
+    },
+    {
+      "weight": 1,
+      "source": "Esposito, Gennaro (7202317328)",
+      "target": "Soler, Miguel A. (8718855800)"
+    }
+  ]
+}

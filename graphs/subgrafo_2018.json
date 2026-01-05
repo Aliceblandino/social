@@ -1,0 +1,41 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Dattolo, Antonina (6602802183)"
+    },
+    {
+      "id": "Luccio, Flaminia (7005244352)"
+    },
+    {
+      "id": "de March, Chiara (57201154884)"
+    },
+    {
+      "id": "Corbatto, Marco (6507516644)"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Dattolo, Antonina (6602802183)",
+      "target": "Corbatto, Marco (6507516644)"
+    },
+    {
+      "weight": 1,
+      "source": "Dattolo, Antonina (6602802183)",
+      "target": "de March, Chiara (57201154884)"
+    },
+    {
+      "weight": 1,
+      "source": "Dattolo, Antonina (6602802183)",
+      "target": "Luccio, Flaminia (7005244352)"
+    },
+    {
+      "weight": 1,
+      "source": "Luccio, Flaminia (7005244352)",
+      "target": "de March, Chiara (57201154884)"
+    }
+  ]
+}

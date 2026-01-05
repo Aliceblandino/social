@@ -1,0 +1,264 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Altenkirch, Thorsten (22333517400)"
+    },
+    {
+      "id": "Chaudhuri, Kaustuv Ray (8984178700)"
+    },
+    {
+      "id": "Dowek, Gilles (6602138388)"
+    },
+    {
+      "id": "Felty, Amy P. (6602488070)"
+    },
+    {
+      "id": "Filinski, Andrzej (6603203815)"
+    },
+    {
+      "id": "Miculan, Marino (6602346936)"
+    },
+    {
+      "id": "Rabe, Florian (25121805000)"
+    },
+    {
+      "id": "Ricciotti, Wilmer (26322835100)"
+    },
+    {
+      "id": "Sacerdoti Coen, Claudio (8228184800)"
+    },
+    {
+      "id": "Sojakova, Kristina (34977769500)"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Altenkirch, Thorsten (22333517400)",
+      "target": "Chaudhuri, Kaustuv Ray (8984178700)"
+    },
+    {
+      "weight": 1,
+      "source": "Altenkirch, Thorsten (22333517400)",
+      "target": "Dowek, Gilles (6602138388)"
+    },
+    {
+      "weight": 1,
+      "source": "Altenkirch, Thorsten (22333517400)",
+      "target": "Felty, Amy P. (6602488070)"
+    },
+    {
+      "weight": 1,
+      "source": "Altenkirch, Thorsten (22333517400)",
+      "target": "Filinski, Andrzej (6603203815)"
+    },
+    {
+      "weight": 1,
+      "source": "Altenkirch, Thorsten (22333517400)",
+      "target": "Miculan, Marino (6602346936)"
+    },
+    {
+      "weight": 1,
+      "source": "Altenkirch, Thorsten (22333517400)",
+      "target": "Rabe, Florian (25121805000)"
+    },
+    {
+      "weight": 1,
+      "source": "Altenkirch, Thorsten (22333517400)",
+      "target": "Ricciotti, Wilmer (26322835100)"
+    },
+    {
+      "weight": 1,
+      "source": "Altenkirch, Thorsten (22333517400)",
+      "target": "Sacerdoti Coen, Claudio (8228184800)"
+    },
+    {
+      "weight": 1,
+      "source": "Altenkirch, Thorsten (22333517400)",
+      "target": "Sojakova, Kristina (34977769500)"
+    },
+    {
+      "weight": 1,
+      "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+      "target": "Dowek, Gilles (6602138388)"
+    },
+    {
+      "weight": 1,
+      "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+      "target": "Felty, Amy P. (6602488070)"
+    },
+    {
+      "weight": 1,
+      "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+      "target": "Filinski, Andrzej (6603203815)"
+    },
+    {
+      "weight": 1,
+      "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+      "target": "Miculan, Marino (6602346936)"
+    },
+    {
+      "weight": 1,
+      "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+      "target": "Rabe, Florian (25121805000)"
+    },
+    {
+      "weight": 1,
+      "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+      "target": "Ricciotti, Wilmer (26322835100)"
+    },
+    {
+      "weight": 1,
+      "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+      "target": "Sacerdoti Coen, Claudio (8228184800)"
+    },
+    {
+      "weight": 1,
+      "source": "Chaudhuri, Kaustuv Ray (8984178700)",
+      "target": "Sojakova, Kristina (34977769500)"
+    },
+    {
+      "weight": 1,
+      "source": "Dowek, Gilles (6602138388)",
+      "target": "Felty, Amy P. (6602488070)"
+    },
+    {
+      "weight": 1,
+      "source": "Dowek, Gilles (6602138388)",
+      "target": "Filinski, Andrzej (6603203815)"
+    },
+    {
+      "weight": 1,
+      "source": "Dowek, Gilles (6602138388)",
+      "target": "Miculan, Marino (6602346936)"
+    },
+    {
+      "weight": 1,
+      "source": "Dowek, Gilles (6602138388)",
+      "target": "Rabe, Florian (25121805000)"
+    },
+    {
+      "weight": 1,
+      "source": "Dowek, Gilles (6602138388)",
+      "target": "Ricciotti, Wilmer (26322835100)"
+    },
+    {
+      "weight": 1,
+      "source": "Dowek, Gilles (6602138388)",
+      "target": "Sacerdoti Coen, Claudio (8228184800)"
+    },
+    {
+      "weight": 1,
+      "source": "Dowek, Gilles (6602138388)",
+      "target": "Sojakova, Kristina (34977769500)"
+    },
+    {
+      "weight": 1,
+      "source": "Felty, Amy P. (6602488070)",
+      "target": "Filinski, Andrzej (6603203815)"
+    },
+    {
+      "weight": 1,
+      "source": "Felty, Amy P. (6602488070)",
+      "target": "Miculan, Marino (6602346936)"
+    },
+    {
+      "weight": 1,
+      "source": "Felty, Amy P. (6602488070)",
+      "target": "Rabe, Florian (25121805000)"
+    },
+    {
+      "weight": 1,
+      "source": "Felty, Amy P. (6602488070)",
+      "target": "Ricciotti, Wilmer (26322835100)"
+    },
+    {
+      "weight": 1,
+      "source": "Felty, Amy P. (6602488070)",
+      "target": "Sacerdoti Coen, Claudio (8228184800)"
+    },
+    {
+      "weight": 1,
+      "source": "Felty, Amy P. (6602488070)",
+      "target": "Sojakova, Kristina (34977769500)"
+    },
+    {
+      "weight": 1,
+      "source": "Filinski, Andrzej (6603203815)",
+      "target": "Miculan, Marino (6602346936)"
+    },
+    {
+      "weight": 1,
+      "source": "Filinski, Andrzej (6603203815)",
+      "target": "Rabe, Florian (25121805000)"
+    },
+    {
+      "weight": 1,
+      "source": "Filinski, Andrzej (6603203815)",
+      "target": "Ricciotti, Wilmer (26322835100)"
+    },
+    {
+      "weight": 1,
+      "source": "Filinski, Andrzej (6603203815)",
+      "target": "Sacerdoti Coen, Claudio (8228184800)"
+    },
+    {
+      "weight": 1,
+      "source": "Filinski, Andrzej (6603203815)",
+      "target": "Sojakova, Kristina (34977769500)"
+    },
+    {
+      "weight": 1,
+      "source": "Miculan, Marino (6602346936)",
+      "target": "Rabe, Florian (25121805000)"
+    },
+    {
+      "weight": 1,
+      "source": "Miculan, Marino (6602346936)",
+      "target": "Ricciotti, Wilmer (26322835100)"
+    },
+    {
+      "weight": 1,
+      "source": "Miculan, Marino (6602346936)",
+      "target": "Sacerdoti Coen, Claudio (8228184800)"
+    },
+    {
+      "weight": 1,
+      "source": "Miculan, Marino (6602346936)",
+      "target": "Sojakova, Kristina (34977769500)"
+    },
+    {
+      "weight": 1,
+      "source": "Rabe, Florian (25121805000)",
+      "target": "Ricciotti, Wilmer (26322835100)"
+    },
+    {
+      "weight": 1,
+      "source": "Rabe, Florian (25121805000)",
+      "target": "Sacerdoti Coen, Claudio (8228184800)"
+    },
+    {
+      "weight": 1,
+      "source": "Rabe, Florian (25121805000)",
+      "target": "Sojakova, Kristina (34977769500)"
+    },
+    {
+      "weight": 1,
+      "source": "Ricciotti, Wilmer (26322835100)",
+      "target": "Sacerdoti Coen, Claudio (8228184800)"
+    },
+    {
+      "weight": 1,
+      "source": "Ricciotti, Wilmer (26322835100)",
+      "target": "Sojakova, Kristina (34977769500)"
+    },
+    {
+      "weight": 1,
+      "source": "Sacerdoti Coen, Claudio (8228184800)",
+      "target": "Sojakova, Kristina (34977769500)"
+    }
+  ]
+}
