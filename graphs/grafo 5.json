@@ -20,6 +20,11 @@
     },
     {
       "type": "internal",
+      "weight": 2,
+      "id": "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
       "weight": 19,
       "id": "Università degli Studi di Udine, Udine, UD, Italy"
     },
@@ -27,11 +32,6 @@
       "type": "internal",
       "weight": 2,
       "id": "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 2,
-      "id": "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "type": "internal",
@@ -60,11 +60,6 @@
     },
     {
       "type": "foreign",
-      "weight": 1,
-      "id": "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
-    },
-    {
-      "type": "foreign",
       "weight": 4,
       "id": "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France"
     },
@@ -74,19 +69,24 @@
       "id": "Department of Biochemistry, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
     },
     {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+    },
+    {
       "type": "internal",
       "weight": 3,
       "id": "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "type": "internal",
-      "weight": 2,
-      "id": "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "weight": 6,
+      "id": "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy"
     },
     {
       "type": "internal",
-      "weight": 6,
-      "id": "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "weight": 2,
+      "id": "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
     },
     {
       "type": "internal",
@@ -100,18 +100,8 @@
     },
     {
       "type": "foreign",
-      "weight": 3,
-      "id": "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Université de Montpellier, Montpellier, Occitanie, France"
-    },
-    {
-      "type": "foreign",
       "weight": 2,
-      "id": "Department of Psychiatry, University of Montreal, Montreal, QC, Canada"
+      "id": "Department of Neuroscience, University of Montreal, Montreal, QC, Canada"
     },
     {
       "type": "foreign",
@@ -121,12 +111,22 @@
     {
       "type": "foreign",
       "weight": 1,
-      "id": "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada"
+      "id": "Université de Montpellier, Montpellier, Occitanie, France"
+    },
+    {
+      "type": "italian",
+      "weight": 1,
+      "id": "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy"
     },
     {
       "type": "foreign",
+      "weight": 1,
+      "id": "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada"
+    },
+    {
+      "type": "italian",
       "weight": 3,
-      "id": "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany"
+      "id": "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy"
     },
     {
       "type": "italian",
@@ -136,7 +136,37 @@
     {
       "type": "foreign",
       "weight": 3,
+      "id": "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria"
+    },
+    {
+      "type": "foreign",
+      "weight": 3,
       "id": "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada"
+    },
+    {
+      "type": "foreign",
+      "weight": 2,
+      "id": "Department of Psychiatry, University of Montreal, Montreal, QC, Canada"
+    },
+    {
+      "type": "foreign",
+      "weight": 2,
+      "id": "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France"
+    },
+    {
+      "type": "foreign",
+      "weight": 3,
+      "id": "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
+    },
+    {
+      "type": "foreign",
+      "weight": 3,
+      "id": "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada"
     },
     {
       "type": "foreign",
@@ -155,43 +185,13 @@
     },
     {
       "type": "foreign",
-      "weight": 3,
-      "id": "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada"
-    },
-    {
-      "type": "foreign",
-      "weight": 3,
-      "id": "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France"
-    },
-    {
-      "type": "foreign",
-      "weight": 2,
-      "id": "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France"
-    },
-    {
-      "type": "italian",
-      "weight": 3,
-      "id": "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy"
-    },
-    {
-      "type": "italian",
-      "weight": 1,
-      "id": "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
-    },
-    {
-      "type": "foreign",
       "weight": 1,
       "id": "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France"
     },
     {
       "type": "foreign",
-      "weight": 2,
-      "id": "Department of Neuroscience, University of Montreal, Montreal, QC, Canada"
+      "weight": 3,
+      "id": "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France"
     },
     {
       "type": "internal",
@@ -211,22 +211,22 @@
     {
       "type": "internal",
       "weight": 1,
-      "id": "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "id": "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "type": "internal",
       "weight": 1,
-      "id": "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "type": "foreign",
-      "weight": 1,
-      "id": "Department of Human Genetics, Université McGill, Montreal, QC, Canada"
+      "id": "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "type": "foreign",
       "weight": 2,
       "id": "Department of Neurology, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
+    },
+    {
+      "type": "italian",
+      "weight": 1,
+      "id": "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy"
     },
     {
       "type": "foreign",
@@ -235,8 +235,8 @@
     },
     {
       "type": "foreign",
-      "weight": 1,
-      "id": "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France"
+      "weight": 2,
+      "id": "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France"
     },
     {
       "type": "foreign",
@@ -245,23 +245,13 @@
     },
     {
       "type": "foreign",
-      "weight": 2,
-      "id": "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France"
-    },
-    {
-      "type": "italian",
       "weight": 1,
-      "id": "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy"
-    },
-    {
-      "type": "italian",
-      "weight": 1,
-      "id": "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy"
+      "id": "Department of Human Genetics, Université McGill, Montreal, QC, Canada"
     },
     {
       "type": "foreign",
       "weight": 1,
-      "id": "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany"
+      "id": "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France"
     },
     {
       "type": "foreign",
@@ -274,14 +264,19 @@
       "id": "Department of Psychiatry, Université du Québec à Montréal, Montreal, QC, Canada"
     },
     {
-      "type": "internal",
+      "type": "italian",
       "weight": 1,
-      "id": "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "id": "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy"
+    },
+    {
+      "type": "foreign",
+      "weight": 1,
+      "id": "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany"
     },
     {
       "type": "internal",
       "weight": 1,
-      "id": "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "id": "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy"
     },
     {
       "type": "internal",
@@ -291,7 +286,17 @@
     {
       "type": "internal",
       "weight": 1,
+      "id": "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
       "id": "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "type": "internal",
+      "weight": 1,
+      "id": "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "type": "internal",
@@ -302,11 +307,6 @@
       "type": "italian",
       "weight": 1,
       "id": "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy"
-    },
-    {
-      "type": "internal",
-      "weight": 1,
-      "id": "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "type": "foreign",
@@ -341,6 +341,11 @@
       "target": "Department of Mathematics, Università degli Studi di Udine, Udine, UD, Italy"
     },
     {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
       "weight": 19,
       "source": "Gigli Gian Luigi",
       "target": "Università degli Studi di Udine, Udine, UD, Italy"
@@ -349,11 +354,6 @@
       "weight": 2,
       "source": "Gigli Gian Luigi",
       "target": "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "weight": 23,
@@ -381,11 +381,6 @@
       "target": "Université Jean Monnet Saint Etienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
     },
     {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
-    },
-    {
       "weight": 4,
       "source": "Gigli Gian Luigi",
       "target": "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France"
@@ -396,19 +391,24 @@
       "target": "Department of Biochemistry, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
     },
     {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France"
+    },
+    {
       "weight": 3,
       "source": "Gigli Gian Luigi",
       "target": "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
-    },
-    {
       "weight": 6,
       "source": "Gigli Gian Luigi",
       "target": "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy"
     },
     {
       "weight": 15,
@@ -421,19 +421,9 @@
       "target": "Neurology Unit, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy"
     },
     {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Université de Montpellier, Montpellier, Occitanie, France"
-    },
-    {
       "weight": 2,
       "source": "Gigli Gian Luigi",
-      "target": "Department of Psychiatry, University of Montreal, Montreal, QC, Canada"
+      "target": "Department of Neuroscience, University of Montreal, Montreal, QC, Canada"
     },
     {
       "weight": 2,
@@ -443,12 +433,22 @@
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
+      "target": "Université de Montpellier, Montpellier, Occitanie, France"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
       "target": "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada"
     },
     {
       "weight": 3,
       "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany"
+      "target": "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy"
     },
     {
       "weight": 3,
@@ -458,7 +458,37 @@
     {
       "weight": 3,
       "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
       "target": "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Psychiatry, University of Montreal, Montreal, QC, Canada"
+    },
+    {
+      "weight": 2,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
+    },
+    {
+      "weight": 3,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada"
     },
     {
       "weight": 3,
@@ -476,44 +506,14 @@
       "target": "Department of Biomedical, Università degli Studi di Modena e Reggio Emilia, Modena, MO, Italy"
     },
     {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France"
-    },
-    {
-      "weight": 2,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France"
-    },
-    {
-      "weight": 3,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany"
-    },
-    {
       "weight": 1,
       "source": "Gigli Gian Luigi",
       "target": "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France"
     },
     {
-      "weight": 2,
+      "weight": 3,
       "source": "Gigli Gian Luigi",
-      "target": "Department of Neuroscience, University of Montreal, Montreal, QC, Canada"
+      "target": "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France"
     },
     {
       "weight": 2,
@@ -533,17 +533,12 @@
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
-      "target": "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
       "target": "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
-      "target": "Department of Human Genetics, Université McGill, Montreal, QC, Canada"
+      "target": "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "weight": 2,
@@ -553,17 +548,12 @@
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
+      "target": "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
       "target": "Université de Lille, Lille, Hauts-de-France, France"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic"
     },
     {
       "weight": 2,
@@ -573,17 +563,17 @@
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
-      "target": "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy"
+      "target": "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic"
     },
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
-      "target": "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy"
+      "target": "Department of Human Genetics, Université McGill, Montreal, QC, Canada"
     },
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
-      "target": "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany"
+      "target": "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France"
     },
     {
       "weight": 1,
@@ -598,12 +588,17 @@
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
-      "target": "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy"
+      "target": "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy"
     },
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
-      "target": "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+      "target": "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy"
     },
     {
       "weight": 1,
@@ -613,7 +608,17 @@
     {
       "weight": 1,
       "source": "Gigli Gian Luigi",
+      "target": "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
       "target": "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy"
+    },
+    {
+      "weight": 1,
+      "source": "Gigli Gian Luigi",
+      "target": "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "weight": 1,
@@ -624,11 +629,6 @@
       "weight": 1,
       "source": "Gigli Gian Luigi",
       "target": "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy"
-    },
-    {
-      "weight": 1,
-      "source": "Gigli Gian Luigi",
-      "target": "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy"
     },
     {
       "weight": 1,
@@ -653,264 +653,264 @@
   ],
   "positions": {
     "Gigli Gian Luigi": [
-      0.003291437381970745,
-      0.0009063587833768778
+      0.0012721419879505108,
+      0.001052230848455087
     ],
     "Neurological Clinic, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.07529748422221896,
-      0.0862469107009869
+      0.03945754324811581,
+      0.09364402046650491
     ],
     "Department of Mathematics, Università degli Studi di Udine, Udine, UD, Italy": [
-      -0.16504380075546676,
-      -0.04003543502080888
-    ],
-    "Università degli Studi di Udine, Udine, UD, Italy": [
-      -0.0893476140228525,
-      0.04830619956488381
-    ],
-    "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.18525533192999827,
-      0.30670234518372
+      -0.1841853070512588,
+      -0.03010789072885885
     ],
     "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.0781342948941102,
-      0.31711343656271257
+      -0.5125494587562619,
+      0.18340770726087627
+    ],
+    "Università degli Studi di Udine, Udine, UD, Italy": [
+      -0.1085877039580989,
+      0.043789920910955536
+    ],
+    "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      -0.337115125737958,
+      0.27140125461859793
     ],
     "Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
-      0.10057648704442272,
-      -0.040235383711662784
+      0.10216079046405827,
+      -0.033101776351348096
     ],
     "Department of Laboratory Medicine, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.5234798127640844,
-      -0.15503914752660664
+      -0.31478881290904726,
+      -0.2642117830707872
     ],
     "Department of Neuroscience, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.3176118955475741,
-      -0.006397253251891697
+      -0.21011427406371438,
+      0.11099556690252392
     ],
     "Department of Mathematics and Physics, Università degli Studi di Udine, Udine, UD, Italy": [
-      0.03670520001745622,
-      -0.10666923735210614
+      0.002042351814635694,
+      -0.10495530285360137
     ],
     "Université Jean Monnet Saint Etienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
-      0.5973624817573441,
-      -0.39187812351471274
-    ],
-    "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
-      -0.750403131355338,
-      -0.27307570376541285
+      0.418086826411415,
+      -0.4365944746727342
     ],
     "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France": [
-      0.030953501168757676,
-      0.19115691426819154
+      -0.3804993547528175,
+      -0.0464008877406984
     ],
     "Department of Biochemistry, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
-      -0.8554627008213316,
-      0.22348161545214362
+      0.04203631738837765,
+      0.5
+    ],
+    "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": [
+      -0.9837736753140698,
+      0.012116602693211975
     ],
     "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.1257783685703861,
-      -0.23960116124866426
-    ],
-    "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      0.4873623878155704,
-      -0.20376016473958683
+      0.08374536275330163,
+      -0.23307154549807288
     ],
     "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      -0.2125625124823095,
-      0.10282514745436067
+      0.2203005542371638,
+      -0.09616980246002017
+    ],
+    "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy": [
+      -0.01109753653507921,
+      0.322775830145596
     ],
     "Department of Neuroscience, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      0.17724733725388273,
-      0.020856468197804345
+      0.16002111014474912,
+      0.03880380427649068
     ],
     "Neurology Unit, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
-      -0.16954422178121364,
-      -0.12163778318079593
-    ],
-    "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria": [
-      0.27892262402075424,
-      -0.17809618657977402
-    ],
-    "Université de Montpellier, Montpellier, Occitanie, France": [
-      -0.9586348225579829,
-      0.048950940881171925
-    ],
-    "Department of Psychiatry, University of Montreal, Montreal, QC, Canada": [
-      -0.3972194843633812,
-      0.24950507346644793
-    ],
-    "Department of Sleep Medicine and Neuromuscular Disorders, University of Münster, Munster, Nordrhein-Westfalen, Germany": [
-      -0.5992412164764098,
-      0.08718068673425103
-    ],
-    "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada": [
-      0.08086684144025125,
-      0.4917476800299435
-    ],
-    "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany": [
-      -0.3136462799352308,
-      -0.18842452926395187
-    ],
-    "Department of Neurological Sciences, Università Vita-Salute San Raffaele, Milan, MI, Italy": [
-      0.4512427461760339,
-      0.012469631327088837
-    ],
-    "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada": [
-      0.24718559896739867,
-      0.19699355839891727
-    ],
-    "University of Oxford Medical Sciences Division, Oxford, Oxfordshire, United Kingdom": [
-      -0.1837264315415291,
-      0.21794739465291094
-    ],
-    "Department of Neurology, Universitair Ziekenhuis Antwerpen, Edegem, VAN, Belgium": [
-      -0.90390709400148,
-      -0.22321732644610237
-    ],
-    "Department of Biomedical, Università degli Studi di Modena e Reggio Emilia, Modena, MO, Italy": [
-      -0.9918429408645797,
-      -0.04370105993139731
-    ],
-    "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada": [
-      0.0654343126537312,
-      -0.23011151912957878
-    ],
-    "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France": [
-      0.40895469007205343,
-      -0.0921237577093282
-    ],
-    "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France": [
-      -0.601357941544164,
-      -0.03832394569954967
-    ],
-    "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy": [
-      -0.40848187161109345,
-      0.12547554620650325
-    ],
-    "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy": [
-      -0.30613709330640326,
-      0.4689238532298096
-    ],
-    "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": [
-      0.739901212950195,
-      -0.3263399877786096
-    ],
-    "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France": [
-      -0.6391788554717234,
-      0.37220270529419025
+      -0.18652840345874608,
+      -0.12211826517230158
     ],
     "Department of Neuroscience, University of Montreal, Montreal, QC, Canada": [
-      0.4621315477862895,
-      0.22733678212789496
+      0.5680690117266503,
+      -0.14040052689251606
+    ],
+    "Department of Sleep Medicine and Neuromuscular Disorders, University of Münster, Munster, Nordrhein-Westfalen, Germany": [
+      -0.6271712270808564,
+      0.045206441357407395
+    ],
+    "Université de Montpellier, Montpellier, Occitanie, France": [
+      -0.6758382602012619,
+      0.36414627106412273
+    ],
+    "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy": [
+      -0.5129607171297497,
+      0.42031283394053914
+    ],
+    "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada": [
+      0.2220846025593116,
+      0.4689788658789586
+    ],
+    "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy": [
+      0.33488092417835513,
+      -0.17445061390056726
+    ],
+    "Department of Neurological Sciences, Università Vita-Salute San Raffaele, Milan, MI, Italy": [
+      0.4412745252465647,
+      0.04196021766956213
+    ],
+    "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria": [
+      0.3735757588810126,
+      0.13506386458794536
+    ],
+    "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada": [
+      0.051005323580321366,
+      0.23070873242563786
+    ],
+    "Department of Psychiatry, University of Montreal, Montreal, QC, Canada": [
+      -0.4899048710167454,
+      -0.18536213231757706
+    ],
+    "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France": [
+      -0.6054309148162593,
+      -0.08076699191179904
+    ],
+    "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany": [
+      -0.1044962142227145,
+      -0.23406386425860962
+    ],
+    "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": [
+      0.9049984611552664,
+      -0.17747935746753407
+    ],
+    "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada": [
+      -0.43184223428658264,
+      0.08096783737013544
+    ],
+    "University of Oxford Medical Sciences Division, Oxford, Oxfordshire, United Kingdom": [
+      -0.16663676050930637,
+      0.21746178353749673
+    ],
+    "Department of Neurology, Universitair Ziekenhuis Antwerpen, Edegem, VAN, Belgium": [
+      -0.3415156014138037,
+      0.46820874571505217
+    ],
+    "Department of Biomedical, Università degli Studi di Modena e Reggio Emilia, Modena, MO, Italy": [
+      0.5842293257735625,
+      -0.3974135143983245
+    ],
+    "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France": [
+      -0.9043035938828572,
+      0.20437447624863767
+    ],
+    "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France": [
+      0.2236275410236294,
+      0.2093781824412863
     ],
     "Department of Diagnostic Imaging, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.21584061521714368,
-      -0.29708865852310345
+      0.26548389757560703,
+      -0.2852958231809838
     ],
     "Clinical Neurology Unit, Azienda Sanitaria Universitaria, Udine, Italy": [
-      0.43459117850755924,
-      -0.440298996756397
+      0.2509227570681994,
+      -0.4759473899845005
     ],
     "Department of Medical Area (DAME), Università degli Studi di Udine, Udine, UD, Italy": [
-      0.3950795649609703,
-      0.11584555429463357
-    ],
-    "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.07255387176043011,
-      -0.5
+      0.4584068606017464,
+      -0.053408867750014015
     ],
     "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.3646029592533872,
-      -0.41077794007849533
+      -0.1051951627312589,
+      -0.4837008985856837
     ],
-    "Department of Human Genetics, Université McGill, Montreal, QC, Canada": [
-      0.7697757426846449,
-      0.31313752794945005
+    "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      -0.5627247532015174,
+      -0.40611793745801567
     ],
     "Department of Neurology, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": [
-      0.6283603025705937,
-      -0.06537104354207954
-    ],
-    "Université de Lille, Lille, Hauts-de-France, France": [
-      -0.48387102721436653,
-      0.4299823022875857
-    ],
-    "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France": [
-      0.9563187730540128,
-      0.13540275335615035
-    ],
-    "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic": [
-      0.9839351040980645,
-      -0.06138692357336662
-    ],
-    "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France": [
-      0.621307471457489,
-      0.08760211121175931
+      0.43390953800094445,
+      0.23799155572460967
     ],
     "Università degli Studi di Bologna, Facoltà di Medicina e Chirurgia, Bologna, BO, Italy": [
-      -0.6876377285200678,
-      -0.3559036911333265
+      0.9769988531458164,
+      -0.0914606010549923
     ],
-    "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy": [
-      -0.7772142961016059,
-      0.30670653616919236
+    "Université de Lille, Lille, Hauts-de-France, France": [
+      -0.7960665696551915,
+      0.28627921861352873
     ],
-    "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany": [
-      -0.08454376979017751,
-      -0.45351184592858673
+    "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France": [
+      0.6244437541010771,
+      0.07100338430048521
+    ],
+    "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic": [
+      0.9804404072897498,
+      0.09394878207162309
+    ],
+    "Department of Human Genetics, Université McGill, Montreal, QC, Canada": [
+      0.9595338144492839,
+      0.0006972646750401722
+    ],
+    "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France": [
+      -0.8298474248786873,
+      -0.26531051714531745
     ],
     "Department of Neuroscience, Université du Québec à Montréal, Montreal, QC, Canada": [
-      0.9353064628475971,
-      -0.15783161379913577
+      -0.9639591281194649,
+      0.11047128587508791
     ],
     "Department of Psychiatry, Université du Québec à Montréal, Montreal, QC, Canada": [
-      -0.11574968002133447,
-      0.4934019825062003
+      -0.31349119295436956,
+      -0.4129666846134273
+    ],
+    "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy": [
+      0.8354815141635468,
+      -0.2643265666166822
+    ],
+    "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany": [
+      -0.14896983951203088,
+      0.48287907790418844
     ],
     "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      -0.2619786871503247,
-      -0.4897686539249185
-    ],
-    "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      -0.5422056452208379,
-      -0.41389754142276286
+      -0.34534866090045574,
+      -0.48844791273944405
     ],
     "Institute of Pathology, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
-      0.8755438876144142,
-      0.22806854669305343
+      -0.7044955777532655,
+      -0.3403636293889222
+    ],
+    "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      0.8240857579081218,
+      0.26711708088530794
     ],
     "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy": [
-      0.27793489658345905,
-      0.47786880807470017
-    ],
-    "Institute of Hygiene and Clinical Epidemiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.8549892993049897,
-      -0.24710816461401716
-    ],
-    "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy": [
-      0.9857868894096661,
-      0.03771274539925432
+      0.40351531833276744,
+      0.45412976851344355
     ],
     "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
-      0.46063341677257247,
-      0.4378522076342356
+      0.7078283501425163,
+      -0.33043832803092976
+    ],
+    "Institute of Hygiene and Clinical Epidemiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": [
+      0.9090653680957359,
+      0.18282889165601465
+    ],
+    "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy": [
+      0.5589583140486675,
+      0.4017324582621477
     ],
     "Department of Neurology and Rehabilitation, University of Illinois at Chicago, Chicago, IL, United States": [
-      0.25331299327144735,
-      -0.4674952886471138
+      0.07330184697116235,
+      -0.47812479520731677
     ],
     "Neurological Clinic, Università degli Studi di Udine, Dipartimento di Area Medica, Udine, UD, Italy": [
-      -0.9178273297552973,
-      -0.12790689423413062
+      -0.9159910524777016,
+      -0.17951299225169118
     ],
     "Pediatric Unit, Policlinico Universitario, Udine, Udine, UD, Italy": [
-      0.6275042146065671,
-      0.3844391233271178
+      0.7108285168301539,
+      0.34376556274278
     ],
     "Université de Lyon, Lyon, Auvergne-Rhone-Alpes, France": [
-      -0.9510923996839086,
-      0.14266551460733085
+      -0.9706439320184012,
+      -0.08550784788097782
     ]
   },
   "attributes": {
@@ -926,15 +926,15 @@
       "type": "internal",
       "weight": 11
     },
+    "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
+      "type": "internal",
+      "weight": 2
+    },
     "Università degli Studi di Udine, Udine, UD, Italy": {
       "type": "internal",
       "weight": 19
     },
     "Neurosurgery Unit, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
-      "type": "internal",
-      "weight": 2
-    },
-    "Neurology and Clinical Neurophysiology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
       "type": "internal",
       "weight": 2
     },
@@ -958,10 +958,6 @@
       "type": "foreign",
       "weight": 1
     },
-    "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": {
-      "type": "foreign",
-      "weight": 1
-    },
     "Université Claude Bernard Lyon 1, Villeurbanne, Auvergne-Rhone-Alpes, France": {
       "type": "foreign",
       "weight": 4
@@ -970,17 +966,21 @@
       "type": "foreign",
       "weight": 1
     },
+    "Department of Neurology, Centre Hospitalier Universitaire de Saint-Étienne, Saint-Etienne, Auvergne-Rhone-Alpes, France": {
+      "type": "foreign",
+      "weight": 1
+    },
     "Institute of Pathology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
       "type": "internal",
       "weight": 3
     },
-    "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy": {
-      "type": "internal",
-      "weight": 2
-    },
     "Neurological Clinic, Policlinico Universitario, Udine, Udine, UD, Italy": {
       "type": "internal",
       "weight": 6
+    },
+    "Neurology Unit, Policlinico Universitario, Udine, Udine, UD, Italy": {
+      "type": "internal",
+      "weight": 2
     },
     "Department of Neuroscience, Policlinico Universitario, Udine, Udine, UD, Italy": {
       "type": "internal",
@@ -990,15 +990,7 @@
       "type": "internal",
       "weight": 6
     },
-    "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria": {
-      "type": "foreign",
-      "weight": 3
-    },
-    "Université de Montpellier, Montpellier, Occitanie, France": {
-      "type": "foreign",
-      "weight": 1
-    },
-    "Department of Psychiatry, University of Montreal, Montreal, QC, Canada": {
+    "Department of Neuroscience, University of Montreal, Montreal, QC, Canada": {
       "type": "foreign",
       "weight": 2
     },
@@ -1006,19 +998,51 @@
       "type": "foreign",
       "weight": 2
     },
+    "Université de Montpellier, Montpellier, Occitanie, France": {
+      "type": "foreign",
+      "weight": 1
+    },
+    "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy": {
+      "type": "italian",
+      "weight": 1
+    },
     "Centre de Recherche en Biologie Structurale, Université McGill, Montreal, QC, Canada": {
       "type": "foreign",
       "weight": 1
     },
-    "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany": {
-      "type": "foreign",
+    "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy": {
+      "type": "italian",
       "weight": 3
     },
     "Department of Neurological Sciences, Università Vita-Salute San Raffaele, Milan, MI, Italy": {
       "type": "italian",
       "weight": 3
     },
+    "Department of Neurology, Medizinische Universitat Innsbruck, Innsbruck, Tyrol, Austria": {
+      "type": "foreign",
+      "weight": 3
+    },
     "Department of Psychology, Université du Québec à Montréal, Montreal, QC, Canada": {
+      "type": "foreign",
+      "weight": 3
+    },
+    "Department of Psychiatry, University of Montreal, Montreal, QC, Canada": {
+      "type": "foreign",
+      "weight": 2
+    },
+    "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France": {
+      "type": "foreign",
+      "weight": 2
+    },
+    "Department of Neurology, Philipps-Universität Marburg, Marburg, Hessen, Germany": {
+      "type": "foreign",
+      "weight": 3
+    },
+    "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": {
+      "type": "foreign",
+      "weight": 1
+    },
+    "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada": {
       "type": "foreign",
       "weight": 3
     },
@@ -1034,37 +1058,13 @@
       "type": "italian",
       "weight": 1
     },
-    "Department of Neurology and Neurosurgery, Université McGill, Montreal, QC, Canada": {
-      "type": "foreign",
-      "weight": 3
-    },
-    "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France": {
-      "type": "foreign",
-      "weight": 3
-    },
-    "Department of Clinical Neurophysiology and Sleep Center, Université de Lille, Lille, Hauts-de-France, France": {
-      "type": "foreign",
-      "weight": 2
-    },
-    "Department of Medical Sciences and Public Health, Università degli Studi di Cagliari, Cagliari, CA, Italy": {
-      "type": "italian",
-      "weight": 3
-    },
-    "Department of Neuroscience, Università degli Studi di Verona, Verona, VR, Italy": {
-      "type": "italian",
-      "weight": 1
-    },
-    "Department of Neurosurgery, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": {
-      "type": "foreign",
-      "weight": 1
-    },
     "Sleep Disorders Unit, Hôpital Universitaire Pitié Salpêtrière, Paris, Ile-de-France, France": {
       "type": "foreign",
       "weight": 1
     },
-    "Department of Neuroscience, University of Montreal, Montreal, QC, Canada": {
+    "Sleep disorder Unit, Hôpital Universitaire Carémeau, Nimes, Occitania, France": {
       "type": "foreign",
-      "weight": 2
+      "weight": 3
     },
     "Department of Diagnostic Imaging, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
       "type": "internal",
@@ -1078,35 +1078,15 @@
       "type": "internal",
       "weight": 3
     },
-    "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
-      "type": "internal",
-      "weight": 1
-    },
     "Department of Infectious Diseases, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
       "type": "internal",
       "weight": 1
     },
-    "Department of Human Genetics, Université McGill, Montreal, QC, Canada": {
-      "type": "foreign",
+    "Laboratory of Immunogenetics, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
+      "type": "internal",
       "weight": 1
     },
     "Department of Neurology, Universitätsmedizin Göttingen, Gottingen, Niedersachsen, Germany": {
-      "type": "foreign",
-      "weight": 2
-    },
-    "Université de Lille, Lille, Hauts-de-France, France": {
-      "type": "foreign",
-      "weight": 1
-    },
-    "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France": {
-      "type": "foreign",
-      "weight": 1
-    },
-    "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic": {
-      "type": "foreign",
-      "weight": 1
-    },
-    "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France": {
       "type": "foreign",
       "weight": 2
     },
@@ -1114,11 +1094,23 @@
       "type": "italian",
       "weight": 1
     },
-    "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy": {
-      "type": "italian",
+    "Université de Lille, Lille, Hauts-de-France, France": {
+      "type": "foreign",
       "weight": 1
     },
-    "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany": {
+    "Department of Neurology, Université de Montpellier, Montpellier, Occitanie, France": {
+      "type": "foreign",
+      "weight": 2
+    },
+    "Department of Neurology and Center of Clinical Neuroscience, Charles University, Prague, Czech Republic": {
+      "type": "foreign",
+      "weight": 1
+    },
+    "Department of Human Genetics, Université McGill, Montreal, QC, Canada": {
+      "type": "foreign",
+      "weight": 1
+    },
+    "Sleep Disorders Unit, Sorbonne Université, Paris, Ile-de-France, France": {
       "type": "foreign",
       "weight": 1
     },
@@ -1130,11 +1122,15 @@
       "type": "foreign",
       "weight": 1
     },
-    "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy": {
-      "type": "internal",
+    "Alma Mater Studiorum Università di Bologna, Bologna, BO, Italy": {
+      "type": "italian",
       "weight": 1
     },
-    "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
+    "Department of Neurology with Institute of Translational Neurology, University of Münster, Munster, Nordrhein-Westfalen, Germany": {
+      "type": "foreign",
+      "weight": 1
+    },
+    "Division of Vascular and Interventional Radiology, Policlinico Universitario, Udine, Udine, UD, Italy": {
       "type": "internal",
       "weight": 1
     },
@@ -1142,7 +1138,15 @@
       "type": "internal",
       "weight": 1
     },
+    "Department of Cell Therapy and Hematology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
+      "type": "internal",
+      "weight": 1
+    },
     "Neurology Unit, Università degli Studi di Udine, Udine, UD, Italy": {
+      "type": "internal",
+      "weight": 1
+    },
+    "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
       "type": "internal",
       "weight": 1
     },
@@ -1152,10 +1156,6 @@
     },
     "Department of Neurosciences, Biomedicine and Movement Sciences, Università degli Studi di Verona, Verona, VR, Italy": {
       "type": "italian",
-      "weight": 1
-    },
-    "Department of Oncology, Presidio Ospedaliero Universitario Santa Maria della Misericordia , Udine, Udine, UD, Italy": {
-      "type": "internal",
       "weight": 1
     },
     "Department of Neurology and Rehabilitation, University of Illinois at Chicago, Chicago, IL, United States": {
